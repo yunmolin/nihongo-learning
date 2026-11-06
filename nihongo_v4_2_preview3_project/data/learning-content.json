@@ -1,0 +1,1204 @@
+{
+  "schemaVersion": 1,
+  "status": "demo",
+  "note": "V4.2第一批互動示範，待獨立人工內容審核；未完成單元不開放。",
+  "words": [
+    {
+      "id": "word-n5-gakusei",
+      "level": "N5",
+      "lemma": "学生",
+      "reading": "がくせい",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "gakusei-1",
+          "meaning": "學生"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-01"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-sensei",
+      "level": "N5",
+      "lemma": "先生",
+      "reading": "せんせい",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "sensei-1",
+          "meaning": "老師"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-08"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-hon",
+      "level": "N5",
+      "lemma": "本",
+      "reading": "ほん",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "hon-1",
+          "meaning": "書"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-02",
+        "sentence-n5-03"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-gakkou",
+      "level": "N5",
+      "lemma": "学校",
+      "reading": "がっこう",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "gakkou-1",
+          "meaning": "學校"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-09"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-toshokan",
+      "level": "N5",
+      "lemma": "図書館",
+      "reading": "としょかん",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "toshokan-1",
+          "meaning": "圖書館"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-03"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-tomodachi",
+      "level": "N5",
+      "lemma": "友だち",
+      "reading": "ともだち",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "tomodachi-1",
+          "meaning": "朋友"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-04"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-gozen",
+      "level": "N5",
+      "lemma": "午前",
+      "reading": "ごぜん",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "gozen-1",
+          "meaning": "上午"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-06"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-gogo",
+      "level": "N5",
+      "lemma": "午後",
+      "reading": "ごご",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "gogo-1",
+          "meaning": "下午"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-06"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-yasumi",
+      "level": "N5",
+      "lemma": "休み",
+      "reading": "やすみ",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "yasumi-1",
+          "meaning": "休息、假日"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-07"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-watashi",
+      "level": "N5",
+      "lemma": "わたし",
+      "reading": "わたし",
+      "pos": "代名詞",
+      "senses": [
+        {
+          "id": "watashi-1",
+          "meaning": "我"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-01"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-kore",
+      "level": "N5",
+      "lemma": "これ",
+      "reading": "これ",
+      "pos": "代名詞",
+      "senses": [
+        {
+          "id": "kore-1",
+          "meaning": "這個"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-02"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-yomu",
+      "level": "N5",
+      "lemma": "読む",
+      "reading": "よむ",
+      "pos": "動詞",
+      "senses": [
+        {
+          "id": "yomu-1",
+          "meaning": "閱讀"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-03"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-eiga",
+      "level": "N5",
+      "lemma": "映画",
+      "reading": "えいが",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "eiga-1",
+          "meaning": "電影"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-04"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-miru",
+      "level": "N5",
+      "lemma": "見る",
+      "reading": "みる",
+      "pos": "動詞",
+      "senses": [
+        {
+          "id": "miru-1",
+          "meaning": "看"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-04"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-basu",
+      "level": "N5",
+      "lemma": "バス",
+      "reading": "バス",
+      "pos": "名詞",
+      "senses": [
+        {
+          "id": "basu-1",
+          "meaning": "巴士"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-05"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-wa",
+      "level": "N5",
+      "lemma": "は",
+      "reading": "わ",
+      "pos": "助詞",
+      "senses": [
+        {
+          "id": "wa-1",
+          "meaning": "提示主題"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-01",
+        "sentence-n5-02",
+        "sentence-n5-07",
+        "sentence-n5-08"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-no",
+      "level": "N5",
+      "lemma": "の",
+      "reading": "の",
+      "pos": "助詞",
+      "senses": [
+        {
+          "id": "no-1",
+          "meaning": "表示所屬"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-02"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-de",
+      "level": "N5",
+      "lemma": "で",
+      "reading": "で",
+      "pos": "助詞",
+      "senses": [
+        {
+          "id": "de-1",
+          "meaning": "表示動作發生的場所"
+        },
+        {
+          "id": "de-means",
+          "meaning": "表示交通工具或方法"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-03",
+        "sentence-n5-05"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-wo",
+      "level": "N5",
+      "lemma": "を",
+      "reading": "を",
+      "pos": "助詞",
+      "senses": [
+        {
+          "id": "wo-1",
+          "meaning": "標示受詞"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-03",
+        "sentence-n5-04"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    },
+    {
+      "id": "word-n5-to",
+      "level": "N5",
+      "lemma": "と",
+      "reading": "と",
+      "pos": "助詞",
+      "senses": [
+        {
+          "id": "to-1",
+          "meaning": "表示同行者"
+        }
+      ],
+      "sentenceIds": [
+        "sentence-n5-04"
+      ],
+      "audio": null,
+      "status": "demo",
+      "source": "日語航線原創教學示範，待獨立人工審核"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-n5-01",
+      "text": "わたしは学生です。",
+      "translation": "我是學生。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-01-token-0",
+          "start": 0,
+          "end": 3,
+          "surface": "わたし",
+          "wordId": "word-n5-watashi",
+          "senseId": "watashi-1",
+          "reading": "わたし",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-01-token-1",
+          "start": 3,
+          "end": 4,
+          "surface": "は",
+          "wordId": "word-n5-wa",
+          "senseId": "wa-1",
+          "reading": "わ",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-01-token-2",
+          "start": 4,
+          "end": 6,
+          "surface": "学生",
+          "wordId": "word-n5-gakusei",
+          "senseId": "gakusei-1",
+          "reading": "がくせい",
+          "form": "原形"
+        }
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "sentence-n5-02",
+      "text": "これは田中さんの本です。",
+      "translation": "這是田中先生的書。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-02-token-0",
+          "start": 0,
+          "end": 2,
+          "surface": "これ",
+          "wordId": "word-n5-kore",
+          "senseId": "kore-1",
+          "reading": "これ",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-02-token-1",
+          "start": 2,
+          "end": 3,
+          "surface": "は",
+          "wordId": "word-n5-wa",
+          "senseId": "wa-1",
+          "reading": "わ",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-02-token-2",
+          "start": 7,
+          "end": 8,
+          "surface": "の",
+          "wordId": "word-n5-no",
+          "senseId": "no-1",
+          "reading": "の",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-02-token-3",
+          "start": 8,
+          "end": 9,
+          "surface": "本",
+          "wordId": "word-n5-hon",
+          "senseId": "hon-1",
+          "reading": "ほん",
+          "form": "原形"
+        }
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "sentence-n5-03",
+      "text": "図書館で本を読みます。",
+      "translation": "在圖書館看書。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-03-token-0",
+          "start": 0,
+          "end": 3,
+          "surface": "図書館",
+          "wordId": "word-n5-toshokan",
+          "senseId": "toshokan-1",
+          "reading": "としょかん",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-03-token-1",
+          "start": 3,
+          "end": 4,
+          "surface": "で",
+          "wordId": "word-n5-de",
+          "senseId": "de-1",
+          "reading": "で",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-03-token-2",
+          "start": 4,
+          "end": 5,
+          "surface": "本",
+          "wordId": "word-n5-hon",
+          "senseId": "hon-1",
+          "reading": "ほん",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-03-token-3",
+          "start": 5,
+          "end": 6,
+          "surface": "を",
+          "wordId": "word-n5-wo",
+          "senseId": "wo-1",
+          "reading": "を",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-03-token-4",
+          "start": 6,
+          "end": 10,
+          "surface": "読みます",
+          "wordId": "word-n5-yomu",
+          "senseId": "yomu-1",
+          "reading": "よみます",
+          "form": "動詞「読む」的ます形"
+        }
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "sentence-n5-04",
+      "text": "友だちと映画を見ます。",
+      "translation": "和朋友一起看電影。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-04-token-0",
+          "start": 0,
+          "end": 3,
+          "surface": "友だち",
+          "wordId": "word-n5-tomodachi",
+          "senseId": "tomodachi-1",
+          "reading": "ともだち",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-04-token-1",
+          "start": 3,
+          "end": 4,
+          "surface": "と",
+          "wordId": "word-n5-to",
+          "senseId": "to-1",
+          "reading": "と",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-04-token-2",
+          "start": 4,
+          "end": 6,
+          "surface": "映画",
+          "wordId": "word-n5-eiga",
+          "senseId": "eiga-1",
+          "reading": "えいが",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-04-token-3",
+          "start": 6,
+          "end": 7,
+          "surface": "を",
+          "wordId": "word-n5-wo",
+          "senseId": "wo-1",
+          "reading": "を",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-04-token-4",
+          "start": 7,
+          "end": 10,
+          "surface": "見ます",
+          "wordId": "word-n5-miru",
+          "senseId": "miru-1",
+          "reading": "みます",
+          "form": "動詞「見る」的ます形"
+        }
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "sentence-n5-05",
+      "text": "毎日バスで行きます。でも、今日は歩いて行きました。",
+      "translation": "每天搭巴士去，但今天走路去了。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-05-token-0",
+          "start": 2,
+          "end": 4,
+          "surface": "バス",
+          "wordId": "word-n5-basu",
+          "senseId": "basu-1",
+          "reading": "バス",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-05-token-1",
+          "start": 4,
+          "end": 5,
+          "surface": "で",
+          "wordId": "word-n5-de",
+          "senseId": "de-means",
+          "reading": "で",
+          "form": "原形"
+        }
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "sentence-n5-06",
+      "text": "午前九時から午後五時までです。",
+      "translation": "從上午九點到下午五點。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-06-token-0",
+          "start": 0,
+          "end": 2,
+          "surface": "午前",
+          "wordId": "word-n5-gozen",
+          "senseId": "gozen-1",
+          "reading": "ごぜん",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-06-token-1",
+          "start": 6,
+          "end": 8,
+          "surface": "午後",
+          "wordId": "word-n5-gogo",
+          "senseId": "gogo-1",
+          "reading": "ごご",
+          "form": "原形"
+        }
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "sentence-n5-07",
+      "text": "月曜日は休みです。",
+      "translation": "星期一休息。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-07-token-0",
+          "start": 3,
+          "end": 4,
+          "surface": "は",
+          "wordId": "word-n5-wa",
+          "senseId": "wa-1",
+          "reading": "わ",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-07-token-1",
+          "start": 4,
+          "end": 6,
+          "surface": "休み",
+          "wordId": "word-n5-yasumi",
+          "senseId": "yasumi-1",
+          "reading": "やすみ",
+          "form": "原形"
+        }
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "sentence-n5-08",
+      "text": "田中さんは先生です。",
+      "translation": "田中先生是老師。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-08-token-0",
+          "start": 4,
+          "end": 5,
+          "surface": "は",
+          "wordId": "word-n5-wa",
+          "senseId": "wa-1",
+          "reading": "わ",
+          "form": "原形"
+        },
+        {
+          "id": "sentence-n5-08-token-1",
+          "start": 5,
+          "end": 7,
+          "surface": "先生",
+          "wordId": "word-n5-sensei",
+          "senseId": "sensei-1",
+          "reading": "せんせい",
+          "form": "原形"
+        }
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "sentence-n5-09",
+      "text": "学校へ行きます。",
+      "translation": "去學校。",
+      "offsetUnit": "utf16",
+      "tokens": [
+        {
+          "id": "sentence-n5-09-token-0",
+          "start": 0,
+          "end": 2,
+          "surface": "学校",
+          "wordId": "word-n5-gakkou",
+          "senseId": "gakkou-1",
+          "reading": "がっこう",
+          "form": "原形"
+        }
+      ],
+      "status": "demo"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "grammar-n5-desu",
+      "title": "A は B です",
+      "structure": "主題 ＋ は ＋ 名詞 ＋ です",
+      "context": "介紹自己或說明身分",
+      "explanation": "は提示主題，讀作 wa；です使名詞句帶有禮貌語氣。",
+      "sentenceIds": [
+        "sentence-n5-01"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-grammar-001"
+      ]
+    },
+    {
+      "id": "grammar-n5-no",
+      "title": "名詞の名詞",
+      "structure": "所有人／所屬 ＋ の ＋ 物品",
+      "context": "說明東西是誰的",
+      "explanation": "の在此連接所屬關係，先說所有人，再說物品。",
+      "sentenceIds": [
+        "sentence-n5-02"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-grammar-001"
+      ]
+    },
+    {
+      "id": "grammar-n5-de",
+      "title": "動作場所で",
+      "structure": "場所 ＋ で ＋ 動作",
+      "context": "說明在哪裡做事",
+      "explanation": "在圖書館讀書，圖書館是動作發生的場所，用で；不要與移動目的地に混淆。",
+      "sentenceIds": [
+        "sentence-n5-03"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-grammar-002"
+      ]
+    },
+    {
+      "id": "grammar-n5-to",
+      "title": "同行者と",
+      "structure": "同行者 ＋ と ＋ 動作",
+      "context": "表示和某人一起",
+      "explanation": "友だちと表示和朋友一起。本句的と不是引用用法。",
+      "sentenceIds": [
+        "sentence-n5-04"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-grammar-002"
+      ]
+    },
+    {
+      "id": "grammar-n5-demo",
+      "title": "でも：轉折",
+      "structure": "前句。＋ でも、＋ 轉折後的情況",
+      "context": "平常習慣和今天的例外",
+      "explanation": "でも連接不同情況；題目若問今天，要找轉折之後的資訊。",
+      "sentenceIds": [
+        "sentence-n5-05"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-reading-002"
+      ]
+    },
+    {
+      "id": "grammar-n5-kara",
+      "title": "から～まで",
+      "structure": "開始 ＋ から ＋ 結束 ＋ まで",
+      "context": "說明時間或地點的起訖",
+      "explanation": "から表示起點，まで表示終點；九時から五時まで表示九點到五點。",
+      "sentenceIds": [
+        "sentence-n5-06"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-reading-003"
+      ]
+    },
+    {
+      "id": "grammar-n5-de-means",
+      "title": "交通工具で",
+      "structure": "交通工具 ＋ で ＋ 移動動詞",
+      "context": "說明使用哪種交通工具移動",
+      "explanation": "バスで表示搭巴士，這裡的で是交通工具或方法，與圖書館で的動作場所用法不同。",
+      "sentenceIds": [
+        "sentence-n5-05"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-grammar-002"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "activity-n5-01-fill",
+      "type": "fill",
+      "prompt": "填入提示主題的助詞（一個字）：わたし（　）学生です。",
+      "accepted": [
+        "は"
+      ],
+      "grammarId": "grammar-n5-desu",
+      "explanation": "主題「わたし」後用は，讀作 wa。"
+    },
+    {
+      "id": "activity-n5-01-order",
+      "type": "order",
+      "prompt": "排列成「這是田中先生的書」。",
+      "parts": [
+        {
+          "id": "a",
+          "text": "これは"
+        },
+        {
+          "id": "b",
+          "text": "田中さんの"
+        },
+        {
+          "id": "c",
+          "text": "本です。"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "grammarId": "grammar-n5-no",
+      "explanation": "先說主題これは，再接田中さんの本です。"
+    },
+    {
+      "id": "activity-n5-02-fill",
+      "type": "fill",
+      "prompt": "填入表示動作場所的助詞（一個字）：図書館（　）本を読みます。",
+      "accepted": [
+        "で"
+      ],
+      "grammarId": "grammar-n5-de",
+      "explanation": "圖書館是讀書的場所，使用で。"
+    },
+    {
+      "id": "activity-n5-02-order",
+      "type": "order",
+      "prompt": "排列成「和朋友一起看電影」。",
+      "parts": [
+        {
+          "id": "a",
+          "text": "友だちと"
+        },
+        {
+          "id": "b",
+          "text": "映画を"
+        },
+        {
+          "id": "c",
+          "text": "見ます。"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "grammarId": "grammar-n5-to",
+      "explanation": "友だちと表示同行者，映画を是受詞，最後是動詞見ます。",
+      "acceptedOrders": [
+        [
+          "a",
+          "b",
+          "c"
+        ],
+        [
+          "b",
+          "a",
+          "c"
+        ]
+      ]
+    },
+    {
+      "id": "activity-n5-03-fill",
+      "type": "fill",
+      "prompt": "使用「から～まで」表示起訖：午前九時（　）午後五時までです。",
+      "accepted": [
+        "から"
+      ],
+      "grammarId": "grammar-n5-kara",
+      "explanation": "から標示開始時間，與まで配對。"
+    },
+    {
+      "id": "activity-n5-03-order",
+      "type": "order",
+      "prompt": "排列成「每天搭巴士去」。",
+      "parts": [
+        {
+          "id": "a",
+          "text": "毎日"
+        },
+        {
+          "id": "b",
+          "text": "バスで"
+        },
+        {
+          "id": "c",
+          "text": "行きます。"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "grammarId": "grammar-n5-de-means",
+      "explanation": "毎日表示頻率，バスで表示交通工具，最後是行きます。",
+      "acceptedOrders": [
+        [
+          "a",
+          "b",
+          "c"
+        ],
+        [
+          "b",
+          "a",
+          "c"
+        ]
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "n5-course-01",
+      "wordIds": [
+        "word-n5-gakusei",
+        "word-n5-sensei",
+        "word-n5-hon"
+      ],
+      "grammarIds": [
+        "grammar-n5-desu",
+        "grammar-n5-no"
+      ],
+      "sentenceIds": [
+        "sentence-n5-01",
+        "sentence-n5-02"
+      ],
+      "activityIds": [
+        "activity-n5-01-fill",
+        "activity-n5-01-order"
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "n5-course-02",
+      "wordIds": [
+        "word-n5-gakkou",
+        "word-n5-toshokan",
+        "word-n5-tomodachi"
+      ],
+      "grammarIds": [
+        "grammar-n5-de",
+        "grammar-n5-to"
+      ],
+      "sentenceIds": [
+        "sentence-n5-03",
+        "sentence-n5-04"
+      ],
+      "activityIds": [
+        "activity-n5-02-fill",
+        "activity-n5-02-order"
+      ],
+      "status": "demo"
+    },
+    {
+      "id": "n5-course-03",
+      "wordIds": [
+        "word-n5-gozen",
+        "word-n5-gogo",
+        "word-n5-yasumi"
+      ],
+      "grammarIds": [
+        "grammar-n5-demo",
+        "grammar-n5-kara",
+        "grammar-n5-de-means"
+      ],
+      "sentenceIds": [
+        "sentence-n5-05",
+        "sentence-n5-06"
+      ],
+      "activityIds": [
+        "activity-n5-03-fill",
+        "activity-n5-03-order"
+      ],
+      "status": "demo"
+    }
+  ],
+  "unitMap": [
+    {
+      "courseId": "n5-course-01",
+      "title": "我是誰：介紹自己與所屬",
+      "status": "demo"
+    },
+    {
+      "courseId": "n5-course-02",
+      "title": "在哪裡、和誰做什麼",
+      "status": "demo"
+    },
+    {
+      "courseId": "n5-course-03",
+      "title": "讀懂短文與生活公告",
+      "status": "demo"
+    },
+    {
+      "courseId": "n5-unit-04",
+      "title": "指示詞與疑問詞",
+      "status": "in_progress"
+    },
+    {
+      "courseId": "n5-unit-05",
+      "title": "數字、時間與日期",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-06",
+      "title": "地點與存在句",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-07",
+      "title": "動詞與日常生活",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-08",
+      "title": "移動、交通與目的地",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-09",
+      "title": "動作場所與方法",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-10",
+      "title": "形容詞與事物描述",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-11",
+      "title": "否定與過去表達",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-12",
+      "title": "邀請與請求",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-13",
+      "title": "數量詞與購物",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-14",
+      "title": "喜好與能力入門",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-15",
+      "title": "比較與選擇",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-16",
+      "title": "て形與動作順序",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-17",
+      "title": "許可與禁止",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-18",
+      "title": "願望與計畫",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-19",
+      "title": "家人與人物描述",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-20",
+      "title": "生活對話與應答",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-21",
+      "title": "通知、菜單與資訊檢索",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-22",
+      "title": "短文理解與綜合複習",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-23",
+      "title": "N5單元整合測驗",
+      "status": "planned"
+    },
+    {
+      "courseId": "n5-unit-24",
+      "title": "N5複習與學習檢核",
+      "status": "planned"
+    }
+  ],
+  "questionWordLinks": [
+    {
+      "questionId": "n5-003",
+      "wordIds": [
+        "word-n5-kore",
+        "word-n5-watashi",
+        "word-n5-hon",
+        "word-n5-no"
+      ]
+    },
+    {
+      "questionId": "n5-001",
+      "wordIds": [
+        "word-n5-watashi",
+        "word-n5-gakkou"
+      ]
+    },
+    {
+      "questionId": "v3-n5-008",
+      "wordIds": [
+        "word-n5-toshokan",
+        "word-n5-hon",
+        "word-n5-yomu"
+      ]
+    },
+    {
+      "questionId": "v3-n5-010",
+      "wordIds": [
+        "word-n5-tomodachi",
+        "word-n5-eiga",
+        "word-n5-miru"
+      ]
+    },
+    {
+      "questionId": "v3-n5-020",
+      "wordIds": [
+        "word-n5-basu"
+      ]
+    },
+    {
+      "questionId": "v3-n5-022",
+      "wordIds": [
+        "word-n5-toshokan",
+        "word-n5-yasumi",
+        "word-n5-gozen",
+        "word-n5-gogo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2323 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "kata-0",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ア」的羅馬拼音是？",
+      "options": [
+        "a",
+        "ku",
+        "se",
+        "ne"
+      ],
+      "answer": 0,
+      "explanation": "ア 讀作 a。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-1",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「イ」的羅馬拼音是？",
+      "options": [
+        "i",
+        "ke",
+        "so",
+        "no"
+      ],
+      "answer": 0,
+      "explanation": "イ 讀作 i。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-2",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ウ」的羅馬拼音是？",
+      "options": [
+        "u",
+        "ko",
+        "ta",
+        "ha"
+      ],
+      "answer": 0,
+      "explanation": "ウ 讀作 u。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-3",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「エ」的羅馬拼音是？",
+      "options": [
+        "e",
+        "sa",
+        "chi",
+        "hi"
+      ],
+      "answer": 0,
+      "explanation": "エ 讀作 e。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-4",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「オ」的羅馬拼音是？",
+      "options": [
+        "o",
+        "shi",
+        "tsu",
+        "fu"
+      ],
+      "answer": 0,
+      "explanation": "オ 讀作 o。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-5",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「カ」的羅馬拼音是？",
+      "options": [
+        "ka",
+        "su",
+        "te",
+        "he"
+      ],
+      "answer": 0,
+      "explanation": "カ 讀作 ka。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-6",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「キ」的羅馬拼音是？",
+      "options": [
+        "ki",
+        "se",
+        "to",
+        "ho"
+      ],
+      "answer": 0,
+      "explanation": "キ 讀作 ki。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-7",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ク」的羅馬拼音是？",
+      "options": [
+        "ku",
+        "so",
+        "na",
+        "ma"
+      ],
+      "answer": 0,
+      "explanation": "ク 讀作 ku。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-8",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ケ」的羅馬拼音是？",
+      "options": [
+        "ke",
+        "ta",
+        "ni",
+        "mi"
+      ],
+      "answer": 0,
+      "explanation": "ケ 讀作 ke。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-9",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「コ」的羅馬拼音是？",
+      "options": [
+        "ko",
+        "chi",
+        "nu",
+        "mu"
+      ],
+      "answer": 0,
+      "explanation": "コ 讀作 ko。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-10",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「サ」的羅馬拼音是？",
+      "options": [
+        "sa",
+        "tsu",
+        "ne",
+        "me"
+      ],
+      "answer": 0,
+      "explanation": "サ 讀作 sa。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-11",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「シ」的羅馬拼音是？",
+      "options": [
+        "shi",
+        "te",
+        "no",
+        "mo"
+      ],
+      "answer": 0,
+      "explanation": "シ 讀作 shi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-12",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ス」的羅馬拼音是？",
+      "options": [
+        "su",
+        "to",
+        "ha",
+        "ya"
+      ],
+      "answer": 0,
+      "explanation": "ス 讀作 su。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-13",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「セ」的羅馬拼音是？",
+      "options": [
+        "se",
+        "na",
+        "hi",
+        "yu"
+      ],
+      "answer": 0,
+      "explanation": "セ 讀作 se。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-14",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ソ」的羅馬拼音是？",
+      "options": [
+        "so",
+        "ni",
+        "fu",
+        "yo"
+      ],
+      "answer": 0,
+      "explanation": "ソ 讀作 so。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-15",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「タ」的羅馬拼音是？",
+      "options": [
+        "ta",
+        "nu",
+        "he",
+        "ra"
+      ],
+      "answer": 0,
+      "explanation": "タ 讀作 ta。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-16",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「チ」的羅馬拼音是？",
+      "options": [
+        "chi",
+        "ne",
+        "ho",
+        "ri"
+      ],
+      "answer": 0,
+      "explanation": "チ 讀作 chi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-17",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ツ」的羅馬拼音是？",
+      "options": [
+        "tsu",
+        "no",
+        "ma",
+        "ru"
+      ],
+      "answer": 0,
+      "explanation": "ツ 讀作 tsu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-18",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「テ」的羅馬拼音是？",
+      "options": [
+        "te",
+        "ha",
+        "mi",
+        "re"
+      ],
+      "answer": 0,
+      "explanation": "テ 讀作 te。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-19",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ト」的羅馬拼音是？",
+      "options": [
+        "to",
+        "hi",
+        "mu",
+        "ro"
+      ],
+      "answer": 0,
+      "explanation": "ト 讀作 to。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-20",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ナ」的羅馬拼音是？",
+      "options": [
+        "na",
+        "fu",
+        "me",
+        "wa"
+      ],
+      "answer": 0,
+      "explanation": "ナ 讀作 na。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-21",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ニ」的羅馬拼音是？",
+      "options": [
+        "ni",
+        "he",
+        "mo",
+        "wo"
+      ],
+      "answer": 0,
+      "explanation": "ニ 讀作 ni。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-22",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヌ」的羅馬拼音是？",
+      "options": [
+        "nu",
+        "ho",
+        "ya",
+        "n"
+      ],
+      "answer": 0,
+      "explanation": "ヌ 讀作 nu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-23",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ネ」的羅馬拼音是？",
+      "options": [
+        "ne",
+        "ma",
+        "yu",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "ネ 讀作 ne。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-24",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ノ」的羅馬拼音是？",
+      "options": [
+        "no",
+        "mi",
+        "yo",
+        "i"
+      ],
+      "answer": 0,
+      "explanation": "ノ 讀作 no。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-25",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ハ」的羅馬拼音是？",
+      "options": [
+        "ha",
+        "mu",
+        "ra",
+        "u"
+      ],
+      "answer": 0,
+      "explanation": "ハ 讀作 ha。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-26",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヒ」的羅馬拼音是？",
+      "options": [
+        "hi",
+        "me",
+        "ri",
+        "e"
+      ],
+      "answer": 0,
+      "explanation": "ヒ 讀作 hi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-27",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「フ」的羅馬拼音是？",
+      "options": [
+        "fu",
+        "mo",
+        "ru",
+        "o"
+      ],
+      "answer": 0,
+      "explanation": "フ 讀作 fu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-28",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヘ」的羅馬拼音是？",
+      "options": [
+        "he",
+        "ya",
+        "re",
+        "ka"
+      ],
+      "answer": 0,
+      "explanation": "ヘ 讀作 he。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-29",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ホ」的羅馬拼音是？",
+      "options": [
+        "ho",
+        "yu",
+        "ro",
+        "ki"
+      ],
+      "answer": 0,
+      "explanation": "ホ 讀作 ho。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-30",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「マ」的羅馬拼音是？",
+      "options": [
+        "ma",
+        "yo",
+        "wa",
+        "ku"
+      ],
+      "answer": 0,
+      "explanation": "マ 讀作 ma。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-31",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ミ」的羅馬拼音是？",
+      "options": [
+        "mi",
+        "ra",
+        "wo",
+        "ke"
+      ],
+      "answer": 0,
+      "explanation": "ミ 讀作 mi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-32",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ム」的羅馬拼音是？",
+      "options": [
+        "mu",
+        "ri",
+        "n",
+        "ko"
+      ],
+      "answer": 0,
+      "explanation": "ム 讀作 mu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-33",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「メ」的羅馬拼音是？",
+      "options": [
+        "me",
+        "ru",
+        "a",
+        "sa"
+      ],
+      "answer": 0,
+      "explanation": "メ 讀作 me。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-34",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「モ」的羅馬拼音是？",
+      "options": [
+        "mo",
+        "re",
+        "i",
+        "shi"
+      ],
+      "answer": 0,
+      "explanation": "モ 讀作 mo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-35",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヤ」的羅馬拼音是？",
+      "options": [
+        "ya",
+        "ro",
+        "u",
+        "su"
+      ],
+      "answer": 0,
+      "explanation": "ヤ 讀作 ya。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-36",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ユ」的羅馬拼音是？",
+      "options": [
+        "yu",
+        "wa",
+        "e",
+        "se"
+      ],
+      "answer": 0,
+      "explanation": "ユ 讀作 yu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-37",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヨ」的羅馬拼音是？",
+      "options": [
+        "yo",
+        "wo",
+        "o",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "ヨ 讀作 yo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-38",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ラ」的羅馬拼音是？",
+      "options": [
+        "ra",
+        "n",
+        "ka",
+        "ta"
+      ],
+      "answer": 0,
+      "explanation": "ラ 讀作 ra。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-39",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「リ」的羅馬拼音是？",
+      "options": [
+        "ri",
+        "a",
+        "ki",
+        "chi"
+      ],
+      "answer": 0,
+      "explanation": "リ 讀作 ri。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-40",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ル」的羅馬拼音是？",
+      "options": [
+        "ru",
+        "i",
+        "ku",
+        "tsu"
+      ],
+      "answer": 0,
+      "explanation": "ル 讀作 ru。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-41",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「レ」的羅馬拼音是？",
+      "options": [
+        "re",
+        "u",
+        "ke",
+        "te"
+      ],
+      "answer": 0,
+      "explanation": "レ 讀作 re。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-42",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ロ」的羅馬拼音是？",
+      "options": [
+        "ro",
+        "e",
+        "ko",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "ロ 讀作 ro。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-43",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ワ」的羅馬拼音是？",
+      "options": [
+        "wa",
+        "o",
+        "sa",
+        "na"
+      ],
+      "answer": 0,
+      "explanation": "ワ 讀作 wa。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-44",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヲ」的羅馬拼音是？",
+      "options": [
+        "wo",
+        "ka",
+        "shi",
+        "ni"
+      ],
+      "answer": 0,
+      "explanation": "ヲ 讀作 wo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kata-45",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ン」的羅馬拼音是？",
+      "options": [
+        "n",
+        "ki",
+        "su",
+        "nu"
+      ],
+      "answer": 0,
+      "explanation": "ン 讀作 n。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-0",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「あ」的羅馬拼音是？",
+      "options": [
+        "a",
+        "ku",
+        "se",
+        "ne"
+      ],
+      "answer": 0,
+      "explanation": "あ 讀作 a。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-1",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「い」的羅馬拼音是？",
+      "options": [
+        "i",
+        "ke",
+        "so",
+        "no"
+      ],
+      "answer": 0,
+      "explanation": "い 讀作 i。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-2",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「う」的羅馬拼音是？",
+      "options": [
+        "u",
+        "ko",
+        "ta",
+        "ha"
+      ],
+      "answer": 0,
+      "explanation": "う 讀作 u。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-3",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「え」的羅馬拼音是？",
+      "options": [
+        "e",
+        "sa",
+        "chi",
+        "hi"
+      ],
+      "answer": 0,
+      "explanation": "え 讀作 e。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-4",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「お」的羅馬拼音是？",
+      "options": [
+        "o",
+        "shi",
+        "tsu",
+        "fu"
+      ],
+      "answer": 0,
+      "explanation": "お 讀作 o。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-5",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「か」的羅馬拼音是？",
+      "options": [
+        "ka",
+        "su",
+        "te",
+        "he"
+      ],
+      "answer": 0,
+      "explanation": "か 讀作 ka。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-6",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「き」的羅馬拼音是？",
+      "options": [
+        "ki",
+        "se",
+        "to",
+        "ho"
+      ],
+      "answer": 0,
+      "explanation": "き 讀作 ki。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-7",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「く」的羅馬拼音是？",
+      "options": [
+        "ku",
+        "so",
+        "na",
+        "ma"
+      ],
+      "answer": 0,
+      "explanation": "く 讀作 ku。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-8",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「け」的羅馬拼音是？",
+      "options": [
+        "ke",
+        "ta",
+        "ni",
+        "mi"
+      ],
+      "answer": 0,
+      "explanation": "け 讀作 ke。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-9",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「こ」的羅馬拼音是？",
+      "options": [
+        "ko",
+        "chi",
+        "nu",
+        "mu"
+      ],
+      "answer": 0,
+      "explanation": "こ 讀作 ko。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-10",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「さ」的羅馬拼音是？",
+      "options": [
+        "sa",
+        "tsu",
+        "ne",
+        "me"
+      ],
+      "answer": 0,
+      "explanation": "さ 讀作 sa。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-11",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「し」的羅馬拼音是？",
+      "options": [
+        "shi",
+        "te",
+        "no",
+        "mo"
+      ],
+      "answer": 0,
+      "explanation": "し 讀作 shi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-12",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「す」的羅馬拼音是？",
+      "options": [
+        "su",
+        "to",
+        "ha",
+        "ya"
+      ],
+      "answer": 0,
+      "explanation": "す 讀作 su。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-13",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「せ」的羅馬拼音是？",
+      "options": [
+        "se",
+        "na",
+        "hi",
+        "yu"
+      ],
+      "answer": 0,
+      "explanation": "せ 讀作 se。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-14",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「そ」的羅馬拼音是？",
+      "options": [
+        "so",
+        "ni",
+        "fu",
+        "yo"
+      ],
+      "answer": 0,
+      "explanation": "そ 讀作 so。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-15",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「た」的羅馬拼音是？",
+      "options": [
+        "ta",
+        "nu",
+        "he",
+        "ra"
+      ],
+      "answer": 0,
+      "explanation": "た 讀作 ta。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-16",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ち」的羅馬拼音是？",
+      "options": [
+        "chi",
+        "ne",
+        "ho",
+        "ri"
+      ],
+      "answer": 0,
+      "explanation": "ち 讀作 chi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-17",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「つ」的羅馬拼音是？",
+      "options": [
+        "tsu",
+        "no",
+        "ma",
+        "ru"
+      ],
+      "answer": 0,
+      "explanation": "つ 讀作 tsu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-18",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「て」的羅馬拼音是？",
+      "options": [
+        "te",
+        "ha",
+        "mi",
+        "re"
+      ],
+      "answer": 0,
+      "explanation": "て 讀作 te。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-19",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「と」的羅馬拼音是？",
+      "options": [
+        "to",
+        "hi",
+        "mu",
+        "ro"
+      ],
+      "answer": 0,
+      "explanation": "と 讀作 to。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-20",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「な」的羅馬拼音是？",
+      "options": [
+        "na",
+        "fu",
+        "me",
+        "wa"
+      ],
+      "answer": 0,
+      "explanation": "な 讀作 na。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-21",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「に」的羅馬拼音是？",
+      "options": [
+        "ni",
+        "he",
+        "mo",
+        "wo"
+      ],
+      "answer": 0,
+      "explanation": "に 讀作 ni。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-22",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ぬ」的羅馬拼音是？",
+      "options": [
+        "nu",
+        "ho",
+        "ya",
+        "n"
+      ],
+      "answer": 0,
+      "explanation": "ぬ 讀作 nu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-23",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ね」的羅馬拼音是？",
+      "options": [
+        "ne",
+        "ma",
+        "yu",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "ね 讀作 ne。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-24",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「の」的羅馬拼音是？",
+      "options": [
+        "no",
+        "mi",
+        "yo",
+        "i"
+      ],
+      "answer": 0,
+      "explanation": "の 讀作 no。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-25",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「は」的羅馬拼音是？",
+      "options": [
+        "ha",
+        "mu",
+        "ra",
+        "u"
+      ],
+      "answer": 0,
+      "explanation": "は 讀作 ha。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-26",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ひ」的羅馬拼音是？",
+      "options": [
+        "hi",
+        "me",
+        "ri",
+        "e"
+      ],
+      "answer": 0,
+      "explanation": "ひ 讀作 hi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-27",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ふ」的羅馬拼音是？",
+      "options": [
+        "fu",
+        "mo",
+        "ru",
+        "o"
+      ],
+      "answer": 0,
+      "explanation": "ふ 讀作 fu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-28",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「へ」的羅馬拼音是？",
+      "options": [
+        "he",
+        "ya",
+        "re",
+        "ka"
+      ],
+      "answer": 0,
+      "explanation": "へ 讀作 he。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-29",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ほ」的羅馬拼音是？",
+      "options": [
+        "ho",
+        "yu",
+        "ro",
+        "ki"
+      ],
+      "answer": 0,
+      "explanation": "ほ 讀作 ho。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-30",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ま」的羅馬拼音是？",
+      "options": [
+        "ma",
+        "yo",
+        "wa",
+        "ku"
+      ],
+      "answer": 0,
+      "explanation": "ま 讀作 ma。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-31",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「み」的羅馬拼音是？",
+      "options": [
+        "mi",
+        "ra",
+        "wo",
+        "ke"
+      ],
+      "answer": 0,
+      "explanation": "み 讀作 mi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-32",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「む」的羅馬拼音是？",
+      "options": [
+        "mu",
+        "ri",
+        "n",
+        "ko"
+      ],
+      "answer": 0,
+      "explanation": "む 讀作 mu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-33",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「め」的羅馬拼音是？",
+      "options": [
+        "me",
+        "ru",
+        "a",
+        "sa"
+      ],
+      "answer": 0,
+      "explanation": "め 讀作 me。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-34",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「も」的羅馬拼音是？",
+      "options": [
+        "mo",
+        "re",
+        "i",
+        "shi"
+      ],
+      "answer": 0,
+      "explanation": "も 讀作 mo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-35",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「や」的羅馬拼音是？",
+      "options": [
+        "ya",
+        "ro",
+        "u",
+        "su"
+      ],
+      "answer": 0,
+      "explanation": "や 讀作 ya。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-36",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ゆ」的羅馬拼音是？",
+      "options": [
+        "yu",
+        "wa",
+        "e",
+        "se"
+      ],
+      "answer": 0,
+      "explanation": "ゆ 讀作 yu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-37",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「よ」的羅馬拼音是？",
+      "options": [
+        "yo",
+        "wo",
+        "o",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "よ 讀作 yo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-38",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ら」的羅馬拼音是？",
+      "options": [
+        "ra",
+        "n",
+        "ka",
+        "ta"
+      ],
+      "answer": 0,
+      "explanation": "ら 讀作 ra。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-39",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「り」的羅馬拼音是？",
+      "options": [
+        "ri",
+        "a",
+        "ki",
+        "chi"
+      ],
+      "answer": 0,
+      "explanation": "り 讀作 ri。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-40",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「る」的羅馬拼音是？",
+      "options": [
+        "ru",
+        "i",
+        "ku",
+        "tsu"
+      ],
+      "answer": 0,
+      "explanation": "る 讀作 ru。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-41",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「れ」的羅馬拼音是？",
+      "options": [
+        "re",
+        "u",
+        "ke",
+        "te"
+      ],
+      "answer": 0,
+      "explanation": "れ 讀作 re。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-42",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ろ」的羅馬拼音是？",
+      "options": [
+        "ro",
+        "e",
+        "ko",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "ろ 讀作 ro。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-43",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「わ」的羅馬拼音是？",
+      "options": [
+        "wa",
+        "o",
+        "sa",
+        "na"
+      ],
+      "answer": 0,
+      "explanation": "わ 讀作 wa。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-44",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「を」的羅馬拼音是？",
+      "options": [
+        "wo",
+        "ka",
+        "shi",
+        "ni"
+      ],
+      "answer": 0,
+      "explanation": "を 讀作 wo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "kana-45",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ん」的羅馬拼音是？",
+      "options": [
+        "n",
+        "ki",
+        "su",
+        "nu"
+      ],
+      "answer": 0,
+      "explanation": "ん 讀作 n。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "n5-001",
+      "level": "N5",
+      "category": "文法",
+      "question": "わたしは学校（　）行きます。",
+      "options": [
+        "に",
+        "を",
+        "で",
+        "が"
+      ],
+      "answer": 0,
+      "explanation": "「に」可標示移動的目的地。",
+      "domain": "文法・讀解",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "n5-002",
+      "level": "N5",
+      "category": "單字",
+      "question": "「水」的日文讀音是？",
+      "options": [
+        "みず",
+        "やま",
+        "そら",
+        "かわ"
+      ],
+      "answer": 0,
+      "explanation": "水讀作「みず」。",
+      "domain": "文字・語彙",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "n5-003",
+      "level": "N5",
+      "category": "文法",
+      "question": "これはわたし（　）本です。",
+      "options": [
+        "を",
+        "の",
+        "へ",
+        "で"
+      ],
+      "answer": 1,
+      "explanation": "「の」表示所屬關係。",
+      "domain": "文法・讀解",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "n5-004",
+      "level": "N5",
+      "category": "單字",
+      "question": "「ねこ」的意思是？",
+      "options": [
+        "狗",
+        "鳥",
+        "貓",
+        "魚"
+      ],
+      "answer": 2,
+      "explanation": "ねこ（猫）是貓。",
+      "domain": "文字・語彙",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "n5-005",
+      "level": "N5",
+      "category": "閱讀",
+      "question": "「田中さんは毎朝七時に起きます。」田中每天幾點起床？",
+      "options": [
+        "六點",
+        "七點",
+        "八點",
+        "九點"
+      ],
+      "answer": 1,
+      "explanation": "「七時に起きます」表示七點起床。",
+      "domain": "文法・讀解",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-001",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「山」の読み方はどれですか。",
+      "options": [
+        "かわ",
+        "やま",
+        "うみ",
+        "そら"
+      ],
+      "answer": 1,
+      "explanation": "「山」讀作「やま」，意思是山；かわ是河川，うみ是海，そら是天空。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-002",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「電車」の読み方はどれですか。",
+      "options": [
+        "でんわ",
+        "じてんしゃ",
+        "でんしゃ",
+        "てんき"
+      ],
+      "answer": 2,
+      "explanation": "電車讀作「でんしゃ」。でんわ是電話，じてんしゃ是腳踏車，てんき是天氣。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-003",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字表記",
+      "difficulty": "入門",
+      "question": "「せんせい」はどれですか。",
+      "options": [
+        "学生",
+        "先生",
+        "学校",
+        "会社"
+      ],
+      "answer": 1,
+      "explanation": "せんせい寫作「先生」，指老師。学生是學生，学校是學校，会社是公司。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-004",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "今日はとても（　）です。水をたくさん飲みます。",
+      "options": [
+        "あつい",
+        "ちかい",
+        "わかい",
+        "ひくい"
+      ],
+      "answer": 0,
+      "explanation": "因為很熱，所以喝很多水，應選「あつい」。ちかい是近，わかい是年輕，ひくい是低。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-005",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "パンを（　）で買いました。",
+      "options": [
+        "びょういん",
+        "としょかん",
+        "パンや",
+        "えき"
+      ],
+      "answer": 2,
+      "explanation": "買麵包的場所是「パンや」（麵包店）。びょういん是醫院，としょかん是圖書館，えき是車站。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-006",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "近義詞",
+      "difficulty": "入門",
+      "question": "「とても大きい」と近い意味はどれですか。",
+      "options": [
+        "すこし大きい",
+        "たいへん大きい",
+        "あまり大きくない",
+        "小さい"
+      ],
+      "answer": 1,
+      "explanation": "「とても」與「たいへん」都可表示非常。すこし是稍微，あまり～ない是不太，最後一項是小。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-007",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "單字用法",
+      "difficulty": "入門",
+      "question": "「かさ」の使い方で正しいものはどれですか。",
+      "options": [
+        "かさを食べます。",
+        "かさを飲みます。",
+        "雨の日にかさをさします。",
+        "かさで字を書きます。"
+      ],
+      "answer": 2,
+      "explanation": "かさ是雨傘，撐傘用「かさをさす」。其餘選項分別把雨傘當成食物、飲料或筆，搭配不正確。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-008",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "図書館（　）本を読みます。",
+      "options": [
+        "に",
+        "を",
+        "で",
+        "へ"
+      ],
+      "answer": 2,
+      "explanation": "「で」標示閱讀這個動作發生的場所。「に／へ」常用於目的地；「を」標示受詞。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-009",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "毎朝六時（　）起きます。",
+      "options": [
+        "に",
+        "を",
+        "で",
+        "と"
+      ],
+      "answer": 0,
+      "explanation": "具體時間「六時」後用「に」。「を」標示受詞，「で」可標示場所或方法，「と」常表示和。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-010",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "友だち（　）映画を見ました。",
+      "options": [
+        "を",
+        "と",
+        "へ",
+        "の"
+      ],
+      "answer": 1,
+      "explanation": "「友だちと」表示和朋友一起。「を」不能標示同行者；「へ」表示方向，「の」表示所屬等關係。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-011",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "動詞變化",
+      "difficulty": "入門",
+      "question": "昨日、学校へ（　）。",
+      "options": [
+        "行きます",
+        "行きません",
+        "行きました",
+        "行っています"
+      ],
+      "answer": 2,
+      "explanation": "「昨日」是過去時間，此句應用禮貌過去式「行きました」。前兩項是非過去式，最後一項表示正在前往或持續狀態。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-012",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "動詞變化",
+      "difficulty": "入門",
+      "question": "ここで写真を（　）ください。",
+      "options": [
+        "とって",
+        "とる",
+        "とります",
+        "とった"
+      ],
+      "answer": 0,
+      "explanation": "「～てください」表示請求，因此「とる」要變成て形「とって」。其他形式不能直接接ください。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-013",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "形容詞",
+      "difficulty": "入門",
+      "question": "このかばんは（　）ないです。",
+      "options": [
+        "高い",
+        "高く",
+        "高かった",
+        "高くて"
+      ],
+      "answer": 1,
+      "explanation": "い形容詞否定式為去掉い加くない：「高くない」。其餘選項不能直接接ないです。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-014",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "存在句",
+      "difficulty": "入門",
+      "question": "机の上に本が（　）。",
+      "options": [
+        "います",
+        "あります",
+        "します",
+        "行きます"
+      ],
+      "answer": 1,
+      "explanation": "無生命物品的存在用「あります」；有生命的人或動物通常用「います」。します是做，行きます是去。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-015",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "疑問詞",
+      "difficulty": "入門",
+      "question": "A：これは（　）のかばんですか。B：田中さんのです。",
+      "options": [
+        "どこ",
+        "いつ",
+        "だれ",
+        "いくら"
+      ],
+      "answer": 2,
+      "explanation": "回答是田中先生的，問題是在問所有人，因此用「だれの」。どこ問地點，いつ問時間，いくら問價格。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-016",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "疑問詞",
+      "difficulty": "入門",
+      "question": "A：りんごは（　）ですか。B：一つ百円です。",
+      "options": [
+        "いくら",
+        "だれ",
+        "どこ",
+        "いつ"
+      ],
+      "answer": 0,
+      "explanation": "回答價格一百日圓，用「いくら」提問。だれ問人，どこ問地點，いつ問時間。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-017",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "數量詞",
+      "difficulty": "入門",
+      "question": "りんごを二（　）買いました。",
+      "options": [
+        "人",
+        "本",
+        "つ",
+        "枚"
+      ],
+      "answer": 2,
+      "explanation": "蘋果可使用一般物品的數量詞「つ」：二つ（ふたつ）。人用於人，本用於細長物，枚用於薄片。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-018",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "時間表達",
+      "difficulty": "入門",
+      "question": "「あした」はいつですか。",
+      "options": [
+        "今天",
+        "昨天",
+        "明天",
+        "前天"
+      ],
+      "answer": 2,
+      "explanation": "あした（明日）是明天；今天是きょう，昨天是きのう，前天是おととい。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-019",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "朝、先生に会いました。「（　）ございます」と言いました。",
+      "options": [
+        "おやすみ",
+        "おはよう",
+        "さようなら",
+        "いただきます"
+      ],
+      "answer": 1,
+      "explanation": "早上向老師問好用「おはようございます」。おやすみ是晚安，さようなら是再見，いただきます是用餐前的話。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-020",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "わたしは毎日バスで学校へ行きます。でも、今日は歩いて行きました。今日、どうやって学校へ行きましたか。",
+      "options": [
+        "バスで",
+        "電車で",
+        "歩いて",
+        "自転車で"
+      ],
+      "answer": 2,
+      "explanation": "「でも、今日は歩いて行きました」說明今天是走路去；每天搭巴士是平常習慣，不能作為今天的答案。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-021",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "日曜日、花子さんは午前中に部屋を掃除しました。午後は友だちと公園へ行きました。午前中に何をしましたか。",
+      "options": [
+        "公園へ行きました",
+        "友だちと勉強しました",
+        "買い物をしました",
+        "部屋を掃除しました"
+      ],
+      "answer": 3,
+      "explanation": "題目問上午。「午前中に部屋を掃除しました」即上午打掃房間；去公園是下午，另兩項文中未提及。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-022",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "資訊檢索",
+      "difficulty": "入門",
+      "question": "図書館：月曜日は休みです。火曜日から日曜日まで、午前九時から午後五時まで開いています。図書館が開いているのはいつですか。",
+      "options": [
+        "月曜日の午前十時",
+        "火曜日の午後三時",
+        "水曜日の午後六時",
+        "日曜日の午前八時"
+      ],
+      "answer": 1,
+      "explanation": "週二下午三點在開館範圍內。週一休館；下午六點已閉館，早上八點尚未開館。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-023",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "明日のパーティーは六時からです。飲み物はありますから、食べ物を持ってきてください。何を持っていきますか。",
+      "options": [
+        "飲み物",
+        "食べ物",
+        "いす",
+        "本"
+      ],
+      "answer": 1,
+      "explanation": "通知說已經有飲料，請帶食物「食べ物を持ってきてください」。椅子與書未被要求。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-024",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「毎日」の読み方はどれですか。",
+      "options": [
+        "まいにち",
+        "まいあさ",
+        "まいばん",
+        "まいしゅう"
+      ],
+      "answer": 0,
+      "explanation": "毎日讀作まいにち。まいあさ是毎朝，まいばん是毎晩，まいしゅう是毎週。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    },
+    {
+      "id": "v3-n5-025",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "否定句",
+      "difficulty": "入門",
+      "question": "A：これはあなたの本ですか。B：いいえ、わたしの本（　）。",
+      "options": [
+        "です",
+        "でした",
+        "ではありません",
+        "があります"
+      ],
+      "answer": 2,
+      "explanation": "「いいえ」表示否定，名詞的禮貌否定式是「ではありません」。です與でした是肯定句，があります是存在表達。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "sample",
+      "version": 1
+    }
+  ]
+}

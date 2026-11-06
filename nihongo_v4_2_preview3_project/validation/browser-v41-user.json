@@ -1,0 +1,46 @@
+{
+  "at": "2026-11-04T15:41:58.499Z",
+  "appBuild": "91354f67113df81d05486accfb5e5e48d0379bc2ac0b41a6e4ccc3b5b089024b",
+  "isolatedStoragePrefix": "nh-acceptance-612bfa48-c2c4-42b5-8837-fc5c881615ce",
+  "checks": [
+    {
+      "name": "真實 DOM 啟動與隔離 localStorage",
+      "status": "passed"
+    },
+    {
+      "name": "分類篩選與空題庫提示",
+      "status": "passed"
+    },
+    {
+      "name": "選項可見、DOM點擊批改及解析",
+      "status": "passed"
+    },
+    {
+      "name": "重載後保留紀錄與已答題",
+      "status": "passed"
+    },
+    {
+      "name": "錯題重練與下一題按鈕",
+      "status": "passed"
+    },
+    {
+      "name": "管理頁、無效JSON與完整備份還原",
+      "status": "passed"
+    },
+    {
+      "name": "本機題目回報與追蹤",
+      "status": "passed"
+    },
+    {
+      "name": "桌面及360px框架的長句排版",
+      "status": "passed"
+    }
+  ],
+  "manualPending": [
+    "原生鍵盤與觸控",
+    "系統檔案選擇與下載",
+    "真正關閉瀏覽器後重開",
+    "Android實機及音訊"
+  ],
+  "status": "automated-browser-checks-passed-manual-pending"
+}

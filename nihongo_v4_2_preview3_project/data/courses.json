@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 2,
+  "courses": [
+    {
+      "id": "n5-course-01",
+      "title": "我是誰：介紹自己與所屬",
+      "objectives": [
+        "使用 A は B です介紹自己",
+        "使用の說明所屬",
+        "理解だれ的提問"
+      ],
+      "vocabulary": [
+        [
+          "学生",
+          "がくせい",
+          "學生"
+        ],
+        [
+          "先生",
+          "せんせい",
+          "老師"
+        ],
+        [
+          "本",
+          "ほん",
+          "書"
+        ]
+      ],
+      "grammar": [
+        {
+          "title": "A は B です",
+          "explanation": "は標示主題，這裡讀作 wa；です讓名詞句帶有禮貌語氣。",
+          "example": "わたしは学生です。",
+          "translation": "我是學生。"
+        },
+        {
+          "title": "名詞の名詞",
+          "explanation": "の可表示所屬。先說所有人，再說物品。",
+          "example": "これは田中さんの本です。",
+          "translation": "這是田中先生的書。"
+        }
+      ],
+      "commonMistakes": [
+        "助詞は在這裡讀 wa，不讀 ha。",
+        "不要把「我的書」寫成わたし本，需加の。"
+      ],
+      "questionIds": [
+        "n5-003",
+        "v3-n5-015",
+        "v3-n5-025"
+      ],
+      "level": "N5",
+      "status": "demo",
+      "completion": {
+        "minAccuracy": 0.8,
+        "requireAll": true
+      },
+      "reviewDays": [
+        1,
+        3,
+        7
+      ],
+      "note": "教學示範，內容與關聯題均待獨立人工審核。",
+      "prerequisiteIds": [],
+      "knowledgePointIds": [
+        "kp-n5-grammar-001",
+        "kp-n5-grammar-006",
+        "kp-n5-grammar-008"
+      ],
+      "availability": "demo",
+      "extensions": {
+        "furigana": false,
+        "learningSearch": false,
+        "placementTest": false
+      }
+    },
+    {
+      "id": "n5-course-02",
+      "title": "在哪裡、和誰做什麼",
+      "objectives": [
+        "區分目的地に、動作場所で",
+        "用と表示同行者",
+        "用時間に說明幾點做事"
+      ],
+      "vocabulary": [
+        [
+          "学校",
+          "がっこう",
+          "學校"
+        ],
+        [
+          "図書館",
+          "としょかん",
+          "圖書館"
+        ],
+        [
+          "友だち",
+          "ともだち",
+          "朋友"
+        ]
+      ],
+      "grammar": [
+        {
+          "title": "目的地に／動作場所で",
+          "explanation": "行きます等移動動詞可用に標示目的地；動作發生的場所常用で。",
+          "example": "図書館で本を読みます。",
+          "translation": "在圖書館看書。"
+        },
+        {
+          "title": "同行者と",
+          "explanation": "和某人一起做事，在同行者後加と。",
+          "example": "友だちと映画を見ます。",
+          "translation": "和朋友一起看電影。"
+        }
+      ],
+      "commonMistakes": [
+        "「在圖書館看書」使用で，不能直接套用移動目的地的に。",
+        "具體時間六時後可用に，不要使用を。"
+      ],
+      "questionIds": [
+        "n5-001",
+        "v3-n5-008",
+        "v3-n5-010"
+      ],
+      "level": "N5",
+      "status": "demo",
+      "completion": {
+        "minAccuracy": 0.8,
+        "requireAll": true
+      },
+      "reviewDays": [
+        1,
+        3,
+        7
+      ],
+      "note": "教學示範，內容與關聯題均待獨立人工審核。",
+      "prerequisiteIds": [
+        "n5-course-01"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-grammar-001",
+        "kp-n5-grammar-002"
+      ],
+      "availability": "demo",
+      "extensions": {
+        "furigana": false,
+        "learningSearch": false,
+        "placementTest": false
+      }
+    },
+    {
+      "id": "n5-course-03",
+      "title": "讀懂短文與生活公告",
+      "objectives": [
+        "區分平常習慣與今天的例外",
+        "辨識上午、下午與時間",
+        "從公告找出有效資訊"
+      ],
+      "vocabulary": [
+        [
+          "午前",
+          "ごぜん",
+          "上午"
+        ],
+        [
+          "午後",
+          "ごご",
+          "下午"
+        ],
+        [
+          "休み",
+          "やすみ",
+          "休息、休館日"
+        ]
+      ],
+      "grammar": [
+        {
+          "title": "でも：轉折",
+          "explanation": "前後情況不同時，用でも連接。讀題時特別留意轉折後的資訊。",
+          "example": "毎日バスで行きます。でも、今日は歩いて行きました。",
+          "translation": "每天搭巴士去，但今天走路去了。"
+        },
+        {
+          "title": "から～まで：起訖",
+          "explanation": "から表示開始，まで表示結束，可用於時間或地點範圍。",
+          "example": "午前九時から午後五時までです。",
+          "translation": "從上午九點到下午五點。"
+        }
+      ],
+      "commonMistakes": [
+        "不要把平常的交通方式直接當成今天的答案。",
+        "先看題目問上午或下午，再對應短文。"
+      ],
+      "questionIds": [
+        "v3-n5-020",
+        "v3-n5-021",
+        "v3-n5-022",
+        "v3-n5-023"
+      ],
+      "level": "N5",
+      "status": "demo",
+      "completion": {
+        "minAccuracy": 0.8,
+        "requireAll": true
+      },
+      "reviewDays": [
+        1,
+        3,
+        7
+      ],
+      "note": "教學示範，內容與關聯題均待獨立人工審核。",
+      "prerequisiteIds": [
+        "n5-course-02"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-reading-002",
+        "kp-n5-reading-003"
+      ],
+      "availability": "demo",
+      "extensions": {
+        "furigana": false,
+        "learningSearch": false,
+        "placementTest": false
+      }
+    }
+  ]
+}

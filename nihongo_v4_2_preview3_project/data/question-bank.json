@@ -1,0 +1,7115 @@
+{
+  "schemaVersion": 2,
+  "questions": [
+    {
+      "id": "kata-0",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ア」的羅馬拼音是？",
+      "options": [
+        "a",
+        "ku",
+        "se",
+        "ne"
+      ],
+      "answer": 0,
+      "explanation": "ア 讀作 a。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-1",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「イ」的羅馬拼音是？",
+      "options": [
+        "i",
+        "ke",
+        "so",
+        "no"
+      ],
+      "answer": 0,
+      "explanation": "イ 讀作 i。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-2",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ウ」的羅馬拼音是？",
+      "options": [
+        "u",
+        "ko",
+        "ta",
+        "ha"
+      ],
+      "answer": 0,
+      "explanation": "ウ 讀作 u。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-3",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「エ」的羅馬拼音是？",
+      "options": [
+        "e",
+        "sa",
+        "chi",
+        "hi"
+      ],
+      "answer": 0,
+      "explanation": "エ 讀作 e。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-4",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「オ」的羅馬拼音是？",
+      "options": [
+        "o",
+        "shi",
+        "tsu",
+        "fu"
+      ],
+      "answer": 0,
+      "explanation": "オ 讀作 o。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-5",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「カ」的羅馬拼音是？",
+      "options": [
+        "ka",
+        "su",
+        "te",
+        "he"
+      ],
+      "answer": 0,
+      "explanation": "カ 讀作 ka。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-6",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「キ」的羅馬拼音是？",
+      "options": [
+        "ki",
+        "se",
+        "to",
+        "ho"
+      ],
+      "answer": 0,
+      "explanation": "キ 讀作 ki。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-7",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ク」的羅馬拼音是？",
+      "options": [
+        "ku",
+        "so",
+        "na",
+        "ma"
+      ],
+      "answer": 0,
+      "explanation": "ク 讀作 ku。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-8",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ケ」的羅馬拼音是？",
+      "options": [
+        "ke",
+        "ta",
+        "ni",
+        "mi"
+      ],
+      "answer": 0,
+      "explanation": "ケ 讀作 ke。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-9",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「コ」的羅馬拼音是？",
+      "options": [
+        "ko",
+        "chi",
+        "nu",
+        "mu"
+      ],
+      "answer": 0,
+      "explanation": "コ 讀作 ko。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-10",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「サ」的羅馬拼音是？",
+      "options": [
+        "sa",
+        "tsu",
+        "ne",
+        "me"
+      ],
+      "answer": 0,
+      "explanation": "サ 讀作 sa。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-11",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「シ」的羅馬拼音是？",
+      "options": [
+        "shi",
+        "te",
+        "no",
+        "mo"
+      ],
+      "answer": 0,
+      "explanation": "シ 讀作 shi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-12",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ス」的羅馬拼音是？",
+      "options": [
+        "su",
+        "to",
+        "ha",
+        "ya"
+      ],
+      "answer": 0,
+      "explanation": "ス 讀作 su。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-13",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「セ」的羅馬拼音是？",
+      "options": [
+        "se",
+        "na",
+        "hi",
+        "yu"
+      ],
+      "answer": 0,
+      "explanation": "セ 讀作 se。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-14",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ソ」的羅馬拼音是？",
+      "options": [
+        "so",
+        "ni",
+        "fu",
+        "yo"
+      ],
+      "answer": 0,
+      "explanation": "ソ 讀作 so。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-15",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「タ」的羅馬拼音是？",
+      "options": [
+        "ta",
+        "nu",
+        "he",
+        "ra"
+      ],
+      "answer": 0,
+      "explanation": "タ 讀作 ta。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-16",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「チ」的羅馬拼音是？",
+      "options": [
+        "chi",
+        "ne",
+        "ho",
+        "ri"
+      ],
+      "answer": 0,
+      "explanation": "チ 讀作 chi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-17",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ツ」的羅馬拼音是？",
+      "options": [
+        "tsu",
+        "no",
+        "ma",
+        "ru"
+      ],
+      "answer": 0,
+      "explanation": "ツ 讀作 tsu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-18",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「テ」的羅馬拼音是？",
+      "options": [
+        "te",
+        "ha",
+        "mi",
+        "re"
+      ],
+      "answer": 0,
+      "explanation": "テ 讀作 te。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-19",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ト」的羅馬拼音是？",
+      "options": [
+        "to",
+        "hi",
+        "mu",
+        "ro"
+      ],
+      "answer": 0,
+      "explanation": "ト 讀作 to。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-20",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ナ」的羅馬拼音是？",
+      "options": [
+        "na",
+        "fu",
+        "me",
+        "wa"
+      ],
+      "answer": 0,
+      "explanation": "ナ 讀作 na。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-21",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ニ」的羅馬拼音是？",
+      "options": [
+        "ni",
+        "he",
+        "mo",
+        "wo"
+      ],
+      "answer": 0,
+      "explanation": "ニ 讀作 ni。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-22",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヌ」的羅馬拼音是？",
+      "options": [
+        "nu",
+        "ho",
+        "ya",
+        "n"
+      ],
+      "answer": 0,
+      "explanation": "ヌ 讀作 nu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-23",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ネ」的羅馬拼音是？",
+      "options": [
+        "ne",
+        "ma",
+        "yu",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "ネ 讀作 ne。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-24",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ノ」的羅馬拼音是？",
+      "options": [
+        "no",
+        "mi",
+        "yo",
+        "i"
+      ],
+      "answer": 0,
+      "explanation": "ノ 讀作 no。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-25",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ハ」的羅馬拼音是？",
+      "options": [
+        "ha",
+        "mu",
+        "ra",
+        "u"
+      ],
+      "answer": 0,
+      "explanation": "ハ 讀作 ha。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-26",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヒ」的羅馬拼音是？",
+      "options": [
+        "hi",
+        "me",
+        "ri",
+        "e"
+      ],
+      "answer": 0,
+      "explanation": "ヒ 讀作 hi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-27",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「フ」的羅馬拼音是？",
+      "options": [
+        "fu",
+        "mo",
+        "ru",
+        "o"
+      ],
+      "answer": 0,
+      "explanation": "フ 讀作 fu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-28",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヘ」的羅馬拼音是？",
+      "options": [
+        "he",
+        "ya",
+        "re",
+        "ka"
+      ],
+      "answer": 0,
+      "explanation": "ヘ 讀作 he。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-29",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ホ」的羅馬拼音是？",
+      "options": [
+        "ho",
+        "yu",
+        "ro",
+        "ki"
+      ],
+      "answer": 0,
+      "explanation": "ホ 讀作 ho。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-30",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「マ」的羅馬拼音是？",
+      "options": [
+        "ma",
+        "yo",
+        "wa",
+        "ku"
+      ],
+      "answer": 0,
+      "explanation": "マ 讀作 ma。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-31",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ミ」的羅馬拼音是？",
+      "options": [
+        "mi",
+        "ra",
+        "wo",
+        "ke"
+      ],
+      "answer": 0,
+      "explanation": "ミ 讀作 mi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-32",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ム」的羅馬拼音是？",
+      "options": [
+        "mu",
+        "ri",
+        "n",
+        "ko"
+      ],
+      "answer": 0,
+      "explanation": "ム 讀作 mu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-33",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「メ」的羅馬拼音是？",
+      "options": [
+        "me",
+        "ru",
+        "a",
+        "sa"
+      ],
+      "answer": 0,
+      "explanation": "メ 讀作 me。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-34",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「モ」的羅馬拼音是？",
+      "options": [
+        "mo",
+        "re",
+        "i",
+        "shi"
+      ],
+      "answer": 0,
+      "explanation": "モ 讀作 mo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-35",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヤ」的羅馬拼音是？",
+      "options": [
+        "ya",
+        "ro",
+        "u",
+        "su"
+      ],
+      "answer": 0,
+      "explanation": "ヤ 讀作 ya。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-36",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ユ」的羅馬拼音是？",
+      "options": [
+        "yu",
+        "wa",
+        "e",
+        "se"
+      ],
+      "answer": 0,
+      "explanation": "ユ 讀作 yu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-37",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヨ」的羅馬拼音是？",
+      "options": [
+        "yo",
+        "wo",
+        "o",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "ヨ 讀作 yo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-38",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ラ」的羅馬拼音是？",
+      "options": [
+        "ra",
+        "n",
+        "ka",
+        "ta"
+      ],
+      "answer": 0,
+      "explanation": "ラ 讀作 ra。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-39",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「リ」的羅馬拼音是？",
+      "options": [
+        "ri",
+        "a",
+        "ki",
+        "chi"
+      ],
+      "answer": 0,
+      "explanation": "リ 讀作 ri。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-40",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ル」的羅馬拼音是？",
+      "options": [
+        "ru",
+        "i",
+        "ku",
+        "tsu"
+      ],
+      "answer": 0,
+      "explanation": "ル 讀作 ru。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-41",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「レ」的羅馬拼音是？",
+      "options": [
+        "re",
+        "u",
+        "ke",
+        "te"
+      ],
+      "answer": 0,
+      "explanation": "レ 讀作 re。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-42",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ロ」的羅馬拼音是？",
+      "options": [
+        "ro",
+        "e",
+        "ko",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "ロ 讀作 ro。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-43",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ワ」的羅馬拼音是？",
+      "options": [
+        "wa",
+        "o",
+        "sa",
+        "na"
+      ],
+      "answer": 0,
+      "explanation": "ワ 讀作 wa。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-44",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ヲ」的羅馬拼音是？",
+      "options": [
+        "wo",
+        "ka",
+        "shi",
+        "ni"
+      ],
+      "answer": 0,
+      "explanation": "ヲ 讀作 wo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kata-45",
+      "level": "五十音",
+      "category": "片假名",
+      "question": "「ン」的羅馬拼音是？",
+      "options": [
+        "n",
+        "ki",
+        "su",
+        "nu"
+      ],
+      "answer": 0,
+      "explanation": "ン 讀作 n。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "片假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-0",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「あ」的羅馬拼音是？",
+      "options": [
+        "a",
+        "ku",
+        "se",
+        "ne"
+      ],
+      "answer": 0,
+      "explanation": "あ 讀作 a。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-1",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「い」的羅馬拼音是？",
+      "options": [
+        "i",
+        "ke",
+        "so",
+        "no"
+      ],
+      "answer": 0,
+      "explanation": "い 讀作 i。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-2",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「う」的羅馬拼音是？",
+      "options": [
+        "u",
+        "ko",
+        "ta",
+        "ha"
+      ],
+      "answer": 0,
+      "explanation": "う 讀作 u。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-3",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「え」的羅馬拼音是？",
+      "options": [
+        "e",
+        "sa",
+        "chi",
+        "hi"
+      ],
+      "answer": 0,
+      "explanation": "え 讀作 e。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-4",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「お」的羅馬拼音是？",
+      "options": [
+        "o",
+        "shi",
+        "tsu",
+        "fu"
+      ],
+      "answer": 0,
+      "explanation": "お 讀作 o。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-5",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「か」的羅馬拼音是？",
+      "options": [
+        "ka",
+        "su",
+        "te",
+        "he"
+      ],
+      "answer": 0,
+      "explanation": "か 讀作 ka。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-6",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「き」的羅馬拼音是？",
+      "options": [
+        "ki",
+        "se",
+        "to",
+        "ho"
+      ],
+      "answer": 0,
+      "explanation": "き 讀作 ki。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-7",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「く」的羅馬拼音是？",
+      "options": [
+        "ku",
+        "so",
+        "na",
+        "ma"
+      ],
+      "answer": 0,
+      "explanation": "く 讀作 ku。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-8",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「け」的羅馬拼音是？",
+      "options": [
+        "ke",
+        "ta",
+        "ni",
+        "mi"
+      ],
+      "answer": 0,
+      "explanation": "け 讀作 ke。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-9",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「こ」的羅馬拼音是？",
+      "options": [
+        "ko",
+        "chi",
+        "nu",
+        "mu"
+      ],
+      "answer": 0,
+      "explanation": "こ 讀作 ko。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-10",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「さ」的羅馬拼音是？",
+      "options": [
+        "sa",
+        "tsu",
+        "ne",
+        "me"
+      ],
+      "answer": 0,
+      "explanation": "さ 讀作 sa。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-11",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「し」的羅馬拼音是？",
+      "options": [
+        "shi",
+        "te",
+        "no",
+        "mo"
+      ],
+      "answer": 0,
+      "explanation": "し 讀作 shi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-12",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「す」的羅馬拼音是？",
+      "options": [
+        "su",
+        "to",
+        "ha",
+        "ya"
+      ],
+      "answer": 0,
+      "explanation": "す 讀作 su。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-13",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「せ」的羅馬拼音是？",
+      "options": [
+        "se",
+        "na",
+        "hi",
+        "yu"
+      ],
+      "answer": 0,
+      "explanation": "せ 讀作 se。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-14",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「そ」的羅馬拼音是？",
+      "options": [
+        "so",
+        "ni",
+        "fu",
+        "yo"
+      ],
+      "answer": 0,
+      "explanation": "そ 讀作 so。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-15",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「た」的羅馬拼音是？",
+      "options": [
+        "ta",
+        "nu",
+        "he",
+        "ra"
+      ],
+      "answer": 0,
+      "explanation": "た 讀作 ta。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-16",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ち」的羅馬拼音是？",
+      "options": [
+        "chi",
+        "ne",
+        "ho",
+        "ri"
+      ],
+      "answer": 0,
+      "explanation": "ち 讀作 chi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-17",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「つ」的羅馬拼音是？",
+      "options": [
+        "tsu",
+        "no",
+        "ma",
+        "ru"
+      ],
+      "answer": 0,
+      "explanation": "つ 讀作 tsu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-18",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「て」的羅馬拼音是？",
+      "options": [
+        "te",
+        "ha",
+        "mi",
+        "re"
+      ],
+      "answer": 0,
+      "explanation": "て 讀作 te。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-19",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「と」的羅馬拼音是？",
+      "options": [
+        "to",
+        "hi",
+        "mu",
+        "ro"
+      ],
+      "answer": 0,
+      "explanation": "と 讀作 to。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-20",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「な」的羅馬拼音是？",
+      "options": [
+        "na",
+        "fu",
+        "me",
+        "wa"
+      ],
+      "answer": 0,
+      "explanation": "な 讀作 na。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-21",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「に」的羅馬拼音是？",
+      "options": [
+        "ni",
+        "he",
+        "mo",
+        "wo"
+      ],
+      "answer": 0,
+      "explanation": "に 讀作 ni。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-22",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ぬ」的羅馬拼音是？",
+      "options": [
+        "nu",
+        "ho",
+        "ya",
+        "n"
+      ],
+      "answer": 0,
+      "explanation": "ぬ 讀作 nu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-23",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ね」的羅馬拼音是？",
+      "options": [
+        "ne",
+        "ma",
+        "yu",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "ね 讀作 ne。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-24",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「の」的羅馬拼音是？",
+      "options": [
+        "no",
+        "mi",
+        "yo",
+        "i"
+      ],
+      "answer": 0,
+      "explanation": "の 讀作 no。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-25",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「は」的羅馬拼音是？",
+      "options": [
+        "ha",
+        "mu",
+        "ra",
+        "u"
+      ],
+      "answer": 0,
+      "explanation": "は 讀作 ha。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-26",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ひ」的羅馬拼音是？",
+      "options": [
+        "hi",
+        "me",
+        "ri",
+        "e"
+      ],
+      "answer": 0,
+      "explanation": "ひ 讀作 hi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-27",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ふ」的羅馬拼音是？",
+      "options": [
+        "fu",
+        "mo",
+        "ru",
+        "o"
+      ],
+      "answer": 0,
+      "explanation": "ふ 讀作 fu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-28",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「へ」的羅馬拼音是？",
+      "options": [
+        "he",
+        "ya",
+        "re",
+        "ka"
+      ],
+      "answer": 0,
+      "explanation": "へ 讀作 he。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-29",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ほ」的羅馬拼音是？",
+      "options": [
+        "ho",
+        "yu",
+        "ro",
+        "ki"
+      ],
+      "answer": 0,
+      "explanation": "ほ 讀作 ho。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-30",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ま」的羅馬拼音是？",
+      "options": [
+        "ma",
+        "yo",
+        "wa",
+        "ku"
+      ],
+      "answer": 0,
+      "explanation": "ま 讀作 ma。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-31",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「み」的羅馬拼音是？",
+      "options": [
+        "mi",
+        "ra",
+        "wo",
+        "ke"
+      ],
+      "answer": 0,
+      "explanation": "み 讀作 mi。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-32",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「む」的羅馬拼音是？",
+      "options": [
+        "mu",
+        "ri",
+        "n",
+        "ko"
+      ],
+      "answer": 0,
+      "explanation": "む 讀作 mu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-33",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「め」的羅馬拼音是？",
+      "options": [
+        "me",
+        "ru",
+        "a",
+        "sa"
+      ],
+      "answer": 0,
+      "explanation": "め 讀作 me。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-34",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「も」的羅馬拼音是？",
+      "options": [
+        "mo",
+        "re",
+        "i",
+        "shi"
+      ],
+      "answer": 0,
+      "explanation": "も 讀作 mo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-35",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「や」的羅馬拼音是？",
+      "options": [
+        "ya",
+        "ro",
+        "u",
+        "su"
+      ],
+      "answer": 0,
+      "explanation": "や 讀作 ya。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-36",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ゆ」的羅馬拼音是？",
+      "options": [
+        "yu",
+        "wa",
+        "e",
+        "se"
+      ],
+      "answer": 0,
+      "explanation": "ゆ 讀作 yu。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-37",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「よ」的羅馬拼音是？",
+      "options": [
+        "yo",
+        "wo",
+        "o",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "よ 讀作 yo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-38",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ら」的羅馬拼音是？",
+      "options": [
+        "ra",
+        "n",
+        "ka",
+        "ta"
+      ],
+      "answer": 0,
+      "explanation": "ら 讀作 ra。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-39",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「り」的羅馬拼音是？",
+      "options": [
+        "ri",
+        "a",
+        "ki",
+        "chi"
+      ],
+      "answer": 0,
+      "explanation": "り 讀作 ri。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-40",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「る」的羅馬拼音是？",
+      "options": [
+        "ru",
+        "i",
+        "ku",
+        "tsu"
+      ],
+      "answer": 0,
+      "explanation": "る 讀作 ru。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-41",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「れ」的羅馬拼音是？",
+      "options": [
+        "re",
+        "u",
+        "ke",
+        "te"
+      ],
+      "answer": 0,
+      "explanation": "れ 讀作 re。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-42",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ろ」的羅馬拼音是？",
+      "options": [
+        "ro",
+        "e",
+        "ko",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "ろ 讀作 ro。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-43",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「わ」的羅馬拼音是？",
+      "options": [
+        "wa",
+        "o",
+        "sa",
+        "na"
+      ],
+      "answer": 0,
+      "explanation": "わ 讀作 wa。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-44",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「を」的羅馬拼音是？",
+      "options": [
+        "wo",
+        "ka",
+        "shi",
+        "ni"
+      ],
+      "answer": 0,
+      "explanation": "を 讀作 wo。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "kana-45",
+      "level": "五十音",
+      "category": "假名",
+      "question": "「ん」的羅馬拼音是？",
+      "options": [
+        "n",
+        "ki",
+        "su",
+        "nu"
+      ],
+      "answer": 0,
+      "explanation": "ん 讀作 n。",
+      "domain": "五十音",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "kana",
+      "topics": [
+        "假名"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "n5-001",
+      "level": "N5",
+      "category": "文法",
+      "question": "わたしは学校（　）行きます。",
+      "options": [
+        "に",
+        "を",
+        "で",
+        "が"
+      ],
+      "answer": 0,
+      "explanation": "「に」可標示移動的目的地。",
+      "domain": "文法・讀解",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "文法"
+      ],
+      "courseIds": [
+        "n5-course-02"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "n5-002",
+      "level": "N5",
+      "category": "單字",
+      "question": "「水」的日文讀音是？",
+      "options": [
+        "みず",
+        "やま",
+        "そら",
+        "かわ"
+      ],
+      "answer": 0,
+      "explanation": "水讀作「みず」。",
+      "domain": "文字・語彙",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "單字"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "n5-003",
+      "level": "N5",
+      "category": "文法",
+      "question": "これはわたし（　）本です。",
+      "options": [
+        "を",
+        "の",
+        "へ",
+        "で"
+      ],
+      "answer": 1,
+      "explanation": "「の」表示所屬關係。",
+      "domain": "文法・讀解",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "文法"
+      ],
+      "courseIds": [
+        "n5-course-01"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "n5-004",
+      "level": "N5",
+      "category": "單字",
+      "question": "「ねこ」的意思是？",
+      "options": [
+        "狗",
+        "鳥",
+        "貓",
+        "魚"
+      ],
+      "answer": 2,
+      "explanation": "ねこ（猫）是貓。",
+      "domain": "文字・語彙",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "單字"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "n5-005",
+      "level": "N5",
+      "category": "閱讀",
+      "question": "「田中さんは毎朝七時に起きます。」田中每天幾點起床？",
+      "options": [
+        "六點",
+        "七點",
+        "八點",
+        "九點"
+      ],
+      "answer": 1,
+      "explanation": "「七時に起きます」表示七點起床。",
+      "domain": "文法・讀解",
+      "difficulty": "入門",
+      "source": "日語航線 V2.2 示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "reading",
+      "topics": [
+        "閱讀"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-001",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「山」の読み方はどれですか。",
+      "options": [
+        "かわ",
+        "やま",
+        "うみ",
+        "そら"
+      ],
+      "answer": 1,
+      "explanation": "「山」讀作「やま」，意思是山；かわ是河川，うみ是海，そら是天空。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "漢字讀音"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-002",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「電車」の読み方はどれですか。",
+      "options": [
+        "でんわ",
+        "じてんしゃ",
+        "でんしゃ",
+        "てんき"
+      ],
+      "answer": 2,
+      "explanation": "電車讀作「でんしゃ」。でんわ是電話，じてんしゃ是腳踏車，てんき是天氣。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "漢字讀音"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-003",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字表記",
+      "difficulty": "入門",
+      "question": "「せんせい」はどれですか。",
+      "options": [
+        "学生",
+        "先生",
+        "学校",
+        "会社"
+      ],
+      "answer": 1,
+      "explanation": "せんせい寫作「先生」，指老師。学生是學生，学校是學校，会社是公司。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "漢字表記"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-004",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "今日はとても（　）です。水をたくさん飲みます。",
+      "options": [
+        "あつい",
+        "ちかい",
+        "わかい",
+        "ひくい"
+      ],
+      "answer": 0,
+      "explanation": "因為很熱，所以喝很多水，應選「あつい」。ちかい是近，わかい是年輕，ひくい是低。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-005",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "パンを（　）で買いました。",
+      "options": [
+        "びょういん",
+        "としょかん",
+        "パンや",
+        "えき"
+      ],
+      "answer": 2,
+      "explanation": "買麵包的場所是「パンや」（麵包店）。びょういん是醫院，としょかん是圖書館，えき是車站。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-006",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "近義詞",
+      "difficulty": "入門",
+      "question": "「とても大きい」と近い意味はどれですか。",
+      "options": [
+        "すこし大きい",
+        "たいへん大きい",
+        "あまり大きくない",
+        "小さい"
+      ],
+      "answer": 1,
+      "explanation": "「とても」與「たいへん」都可表示非常。すこし是稍微，あまり～ない是不太，最後一項是小。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "近義詞"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-007",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "單字用法",
+      "difficulty": "入門",
+      "question": "「かさ」の使い方で正しいものはどれですか。",
+      "options": [
+        "かさを食べます。",
+        "かさを飲みます。",
+        "雨の日にかさをさします。",
+        "かさで字を書きます。"
+      ],
+      "answer": 2,
+      "explanation": "かさ是雨傘，撐傘用「かさをさす」。其餘選項分別把雨傘當成食物、飲料或筆，搭配不正確。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "單字用法"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-008",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "図書館（　）本を読みます。",
+      "options": [
+        "に",
+        "を",
+        "で",
+        "へ"
+      ],
+      "answer": 2,
+      "explanation": "「で」標示閱讀這個動作發生的場所。「に／へ」常用於目的地；「を」標示受詞。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "助詞"
+      ],
+      "courseIds": [
+        "n5-course-02"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-009",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "毎朝六時（　）起きます。",
+      "options": [
+        "に",
+        "を",
+        "で",
+        "と"
+      ],
+      "answer": 0,
+      "explanation": "具體時間「六時」後用「に」。「を」標示受詞，「で」可標示場所或方法，「と」常表示和。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "助詞"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-010",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "友だち（　）映画を見ました。",
+      "options": [
+        "を",
+        "と",
+        "へ",
+        "の"
+      ],
+      "answer": 1,
+      "explanation": "「友だちと」表示和朋友一起。「を」不能標示同行者；「へ」表示方向，「の」表示所屬等關係。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "助詞"
+      ],
+      "courseIds": [
+        "n5-course-02"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-011",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "動詞變化",
+      "difficulty": "入門",
+      "question": "昨日、学校へ（　）。",
+      "options": [
+        "行きます",
+        "行きません",
+        "行きました",
+        "行っています"
+      ],
+      "answer": 2,
+      "explanation": "「昨日」是過去時間，此句應用禮貌過去式「行きました」。前兩項是非過去式，最後一項表示正在前往或持續狀態。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "動詞變化"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-012",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "動詞變化",
+      "difficulty": "入門",
+      "question": "ここで写真を（　）ください。",
+      "options": [
+        "とって",
+        "とる",
+        "とります",
+        "とった"
+      ],
+      "answer": 0,
+      "explanation": "「～てください」表示請求，因此「とる」要變成て形「とって」。其他形式不能直接接ください。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "動詞變化"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-013",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "形容詞",
+      "difficulty": "入門",
+      "question": "このかばんは（　）ないです。",
+      "options": [
+        "高い",
+        "高く",
+        "高かった",
+        "高くて"
+      ],
+      "answer": 1,
+      "explanation": "い形容詞否定式為去掉い加くない：「高くない」。其餘選項不能直接接ないです。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "形容詞"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-014",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "存在句",
+      "difficulty": "入門",
+      "question": "机の上に本が（　）。",
+      "options": [
+        "います",
+        "あります",
+        "します",
+        "行きます"
+      ],
+      "answer": 1,
+      "explanation": "無生命物品的存在用「あります」；有生命的人或動物通常用「います」。します是做，行きます是去。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "存在句"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-015",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "疑問詞",
+      "difficulty": "入門",
+      "question": "A：これは（　）のかばんですか。B：田中さんのです。",
+      "options": [
+        "どこ",
+        "いつ",
+        "だれ",
+        "いくら"
+      ],
+      "answer": 2,
+      "explanation": "回答是田中先生的，問題是在問所有人，因此用「だれの」。どこ問地點，いつ問時間，いくら問價格。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "疑問詞"
+      ],
+      "courseIds": [
+        "n5-course-01"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-016",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "疑問詞",
+      "difficulty": "入門",
+      "question": "A：りんごは（　）ですか。B：一つ百円です。",
+      "options": [
+        "いくら",
+        "だれ",
+        "どこ",
+        "いつ"
+      ],
+      "answer": 0,
+      "explanation": "回答價格一百日圓，用「いくら」提問。だれ問人，どこ問地點，いつ問時間。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "疑問詞"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-017",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "數量詞",
+      "difficulty": "入門",
+      "question": "りんごを二（　）買いました。",
+      "options": [
+        "人",
+        "本",
+        "つ",
+        "枚"
+      ],
+      "answer": 2,
+      "explanation": "蘋果可使用一般物品的數量詞「つ」：二つ（ふたつ）。人用於人，本用於細長物，枚用於薄片。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "數量詞"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-018",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "時間表達",
+      "difficulty": "入門",
+      "question": "「あした」はいつですか。",
+      "options": [
+        "今天",
+        "昨天",
+        "明天",
+        "前天"
+      ],
+      "answer": 2,
+      "explanation": "あした（明日）是明天；今天是きょう，昨天是きのう，前天是おととい。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "時間表達"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-019",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "朝、先生に会いました。「（　）ございます」と言いました。",
+      "options": [
+        "おやすみ",
+        "おはよう",
+        "さようなら",
+        "いただきます"
+      ],
+      "answer": 1,
+      "explanation": "早上向老師問好用「おはようございます」。おやすみ是晚安，さようなら是再見，いただきます是用餐前的話。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-020",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "わたしは毎日バスで学校へ行きます。でも、今日は歩いて行きました。今日、どうやって学校へ行きましたか。",
+      "options": [
+        "バスで",
+        "電車で",
+        "歩いて",
+        "自転車で"
+      ],
+      "answer": 2,
+      "explanation": "「でも、今日は歩いて行きました」說明今天是走路去；每天搭巴士是平常習慣，不能作為今天的答案。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [
+        "n5-course-03"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-021",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "日曜日、花子さんは午前中に部屋を掃除しました。午後は友だちと公園へ行きました。午前中に何をしましたか。",
+      "options": [
+        "公園へ行きました",
+        "友だちと勉強しました",
+        "買い物をしました",
+        "部屋を掃除しました"
+      ],
+      "answer": 3,
+      "explanation": "題目問上午。「午前中に部屋を掃除しました」即上午打掃房間；去公園是下午，另兩項文中未提及。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [
+        "n5-course-03"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-022",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "資訊檢索",
+      "difficulty": "入門",
+      "question": "図書館：月曜日は休みです。火曜日から日曜日まで、午前九時から午後五時まで開いています。図書館が開いているのはいつですか。",
+      "options": [
+        "月曜日の午前十時",
+        "火曜日の午後三時",
+        "水曜日の午後六時",
+        "日曜日の午前八時"
+      ],
+      "answer": 1,
+      "explanation": "週二下午三點在開館範圍內。週一休館；下午六點已閉館，早上八點尚未開館。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "reading",
+      "topics": [
+        "資訊檢索"
+      ],
+      "courseIds": [
+        "n5-course-03"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-023",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "明日のパーティーは六時からです。飲み物はありますから、食べ物を持ってきてください。何を持っていきますか。",
+      "options": [
+        "飲み物",
+        "食べ物",
+        "いす",
+        "本"
+      ],
+      "answer": 1,
+      "explanation": "通知說已經有飲料，請帶食物「食べ物を持ってきてください」。椅子與書未被要求。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [
+        "n5-course-03"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-024",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「毎日」の読み方はどれですか。",
+      "options": [
+        "まいにち",
+        "まいあさ",
+        "まいばん",
+        "まいしゅう"
+      ],
+      "answer": 0,
+      "explanation": "毎日讀作まいにち。まいあさ是毎朝，まいばん是毎晩，まいしゅう是毎週。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "vocabulary",
+      "topics": [
+        "漢字讀音"
+      ],
+      "courseIds": [],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "v3-n5-025",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "否定句",
+      "difficulty": "入門",
+      "question": "A：これはあなたの本ですか。B：いいえ、わたしの本（　）。",
+      "options": [
+        "です",
+        "でした",
+        "ではありません",
+        "があります"
+      ],
+      "answer": 2,
+      "explanation": "「いいえ」表示否定，名詞的禮貌否定式是「ではありません」。です與でした是肯定句，があります是存在表達。",
+      "source": "日語航線 V3 原創示範",
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "kind": "grammar",
+      "topics": [
+        "否定句"
+      ],
+      "courseIds": [
+        "n5-course-01"
+      ],
+      "legacyDemo": true,
+      "licenseStatus": "unverified",
+      "generationBatch": "legacy-v3",
+      "reviewRecords": [],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "從 V3 保留原 ID 匯入；內容尚未獨立審核。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-001",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「駅」の読み方はどれですか。",
+      "options": [
+        "えき",
+        "いえ",
+        "みせ",
+        "まち"
+      ],
+      "answer": 0,
+      "explanation": "駅讀作えき。いえ是家，みせ是店，まち是城鎮。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "漢字讀音"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-002",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「新聞」の読み方はどれですか。",
+      "options": [
+        "しんぶん",
+        "しんぱい",
+        "しつもん",
+        "しごと"
+      ],
+      "answer": 0,
+      "explanation": "新聞讀作しんぶん，意思是報紙；しんぱい是擔心，しつもん是問題，しごと是工作。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "漢字讀音"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-003",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字讀音",
+      "difficulty": "入門",
+      "question": "「右」の読み方はどれですか。",
+      "options": [
+        "ひだり",
+        "みぎ",
+        "うえ",
+        "した"
+      ],
+      "answer": 1,
+      "explanation": "右讀作みぎ。ひだり是左，うえ是上，した是下。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "漢字讀音"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-004",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字表記",
+      "difficulty": "入門",
+      "question": "「やすみ」はどれですか。",
+      "options": [
+        "休み",
+        "読み",
+        "飲み",
+        "住み"
+      ],
+      "answer": 0,
+      "explanation": "休み讀作やすみ，意思是休息或假日；読み是よみ，飲み是のみ，住み是すみ。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "漢字表記"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-005",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字表記",
+      "difficulty": "入門",
+      "question": "「ともだち」はどれですか。",
+      "options": [
+        "友達",
+        "名前",
+        "家族",
+        "電話"
+      ],
+      "answer": 0,
+      "explanation": "ともだち寫作友達；名前是名字，家族是家人，電話是電話。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "漢字表記"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-006",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "漢字表記",
+      "difficulty": "入門",
+      "question": "「でんき」をつけてください。どの漢字ですか。",
+      "options": [
+        "天気",
+        "電車",
+        "電気",
+        "電話"
+      ],
+      "answer": 2,
+      "explanation": "開燈用「電気をつける」，電気讀作でんき。天気是てんき，電車是でんしゃ，電話是でんわ。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "漢字表記"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-007",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "寒いですから、（　）を着ます。",
+      "options": [
+        "コート",
+        "スプーン",
+        "えんぴつ",
+        "きっぷ"
+      ],
+      "answer": 0,
+      "explanation": "冷的時候穿大衣コート。スプーン是湯匙，えんぴつ是鉛筆，きっぷ是票，均不能搭配着ます。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-008",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "このスープは（　）です。砂糖がたくさん入っています。",
+      "options": [
+        "あまい",
+        "くらい",
+        "ほそい",
+        "とおい"
+      ],
+      "answer": 0,
+      "explanation": "有很多糖，味道是甜的あまい。くらい是暗，ほそい是細，とおい是遠。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-009",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "手を洗ってから、タオルで（　）。",
+      "options": [
+        "ふきます",
+        "はきます",
+        "かぶります",
+        "すわります"
+      ],
+      "answer": 0,
+      "explanation": "洗手後用毛巾擦乾，用ふきます。はきます是穿鞋褲等，かぶります是戴帽，すわります是坐下。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-010",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "はさみで紙を（　）。",
+      "options": [
+        "切ります",
+        "泳ぎます",
+        "借ります",
+        "歌います"
+      ],
+      "answer": 0,
+      "explanation": "用剪刀剪紙是紙を切ります。泳ぐ是游泳，借りる是借入，歌う是唱歌。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-011",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "寝る前に歯を（　）。",
+      "options": [
+        "みがきます",
+        "つけます",
+        "あけます",
+        "まちます"
+      ],
+      "answer": 0,
+      "explanation": "刷牙用歯をみがく。つける是開啟或附上，あける是打開，まつ是等待。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-012",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "この道は車が多くて（　）です。気をつけてください。",
+      "options": [
+        "あぶない",
+        "おいしい",
+        "じょうず",
+        "しろい"
+      ],
+      "answer": 0,
+      "explanation": "車多須小心，應選危險的あぶない。おいしい是好吃，じょうず是擅長，しろい是白色。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-013",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "時間表達",
+      "difficulty": "入門",
+      "question": "「先週」はいつですか。",
+      "options": [
+        "下週",
+        "本週",
+        "上週",
+        "明年"
+      ],
+      "answer": 2,
+      "explanation": "先週（せんしゅう）是上週；下週是来週，本週是今週，明年是来年。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "時間表達"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-014",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "單字意思",
+      "difficulty": "入門",
+      "question": "「ゆうびんきょく」はどこですか。",
+      "options": [
+        "郵局",
+        "銀行",
+        "公園",
+        "旅館"
+      ],
+      "answer": 0,
+      "explanation": "ゆうびんきょく是郵便局，也就是郵局。銀行是ぎんこう，公園是こうえん，旅館是りょかん。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "單字意思"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-015",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "單字意思",
+      "difficulty": "入門",
+      "question": "「くつした」の意味はどれですか。",
+      "options": [
+        "鞋子",
+        "襪子",
+        "帽子",
+        "眼鏡"
+      ],
+      "answer": 1,
+      "explanation": "くつした（靴下）是襪子。鞋子是くつ，帽子是ぼうし，眼鏡是めがね。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "單字意思"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-016",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "近義詞",
+      "difficulty": "入門",
+      "question": "「すぐに来てください」と近い意味はどれですか。",
+      "options": [
+        "今、来てください",
+        "明日、来てください",
+        "来ないでください",
+        "ゆっくり来てください"
+      ],
+      "answer": 0,
+      "explanation": "すぐに表示立刻，最接近現在就過來。其餘分別是明天來、請不要來、慢慢來。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "近義詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-017",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "近義詞",
+      "difficulty": "入門",
+      "question": "「この店は安いです」と近い意味はどれですか。",
+      "options": [
+        "この店は高くないです",
+        "この店は大きいです",
+        "この店は古いです",
+        "この店は遠いです"
+      ],
+      "answer": 0,
+      "explanation": "安い表示便宜，意思最接近不貴。大きい是大，古い是舊，遠い是遠，並非價格描述。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "近義詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-018",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "單字用法",
+      "difficulty": "入門",
+      "question": "「借ります」の使い方で正しいものはどれですか。",
+      "options": [
+        "図書館で本を借ります",
+        "朝ご飯を借ります",
+        "海で借りますをします",
+        "名前を借りますで書きます"
+      ],
+      "answer": 0,
+      "explanation": "從圖書館借書用本を借ります。其餘選項在本題日常語境中語意或句法不成立。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "單字用法"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-019",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "單字用法",
+      "difficulty": "入門",
+      "question": "「はきます」の使い方で正しいものはどれですか。",
+      "options": [
+        "くつをはきます",
+        "ぼうしをはきます",
+        "めがねをはきます",
+        "シャツをはきます"
+      ],
+      "answer": 0,
+      "explanation": "鞋子用はく。帽子用かぶる，眼鏡用かける，襯衫用着る。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "單字用法"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-020",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "單字意思",
+      "difficulty": "入門",
+      "question": "「おとうと」はだれですか。",
+      "options": [
+        "哥哥",
+        "弟弟",
+        "姊姊",
+        "妹妹"
+      ],
+      "answer": 1,
+      "explanation": "おとうと（弟）是弟弟。哥哥是あに，姊姊是あね，妹妹是妹（いもうと）。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "單字意思"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-021",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "電車に乗る前に、（　）を買います。",
+      "options": [
+        "きっぷ",
+        "おふろ",
+        "つくえ",
+        "まど"
+      ],
+      "answer": 0,
+      "explanation": "搭電車前買車票きっぷ。おふろ是浴室或澡，つくえ是書桌，まど是窗戶。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-022",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "文脈選詞",
+      "difficulty": "入門",
+      "question": "今日は休みです。会社へは（　）。",
+      "options": [
+        "行きません",
+        "読みません",
+        "食べません",
+        "飲みません"
+      ],
+      "answer": 0,
+      "explanation": "休假日不去公司，用行きません。其他動詞分別是不讀、不吃、不喝，不能與会社へ構成此處意思。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "文脈選詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-023",
+      "level": "N5",
+      "domain": "文字・語彙",
+      "category": "單字意思",
+      "difficulty": "入門",
+      "question": "「となり」の意味はどれですか。",
+      "options": [
+        "旁邊",
+        "裡面",
+        "上面",
+        "後面"
+      ],
+      "answer": 0,
+      "explanation": "となり表示旁邊或隔壁。裡面是中（なか），上面是上（うえ），後面是後ろ（うしろ）。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "vocabulary",
+      "topics": [
+        "單字意思"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-024",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "わたしは毎日、新聞（　）読みます。",
+      "options": [
+        "を",
+        "に",
+        "へ",
+        "と"
+      ],
+      "answer": 0,
+      "explanation": "読む的受詞是新聞，用を；に、へ通常不標示読む的受詞，と表示和或引用等。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "助詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-025",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "東京（　）大阪まで新幹線で行きました。",
+      "options": [
+        "から",
+        "だけ",
+        "よりも",
+        "しか"
+      ],
+      "answer": 0,
+      "explanation": "から～まで表示從某處到某處。だけ是只有，よりも用於比較，しか通常搭配否定。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "助詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-026",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "日曜日は学校へ行きません。月曜日（　）行きます。",
+      "options": [
+        "に",
+        "を",
+        "で",
+        "の"
+      ],
+      "answer": 0,
+      "explanation": "在星期一去，用時間助詞に。を標示受詞，で標示動作場所等，の不能在此直接接行きます。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "助詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-027",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "これは日本語（　）何と言いますか。",
+      "options": [
+        "で",
+        "を",
+        "へ",
+        "が"
+      ],
+      "answer": 0,
+      "explanation": "で可標示使用的語言。日本語で表示用日語；其餘選項不表達本題語言手段。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "助詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-028",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "動詞變化",
+      "difficulty": "入門",
+      "question": "今、母は台所で料理を（　）。",
+      "options": [
+        "しています",
+        "しましたでした",
+        "しませんでしたです",
+        "するました"
+      ],
+      "answer": 0,
+      "explanation": "正在做某事用ている，料理をしています。其餘選項都不是正確的動詞形式。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "動詞變化"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-029",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "動詞變化",
+      "difficulty": "入門",
+      "question": "昨日は忙しくて、テレビを（　）。",
+      "options": [
+        "見ませんでした",
+        "見ませんです",
+        "見ないでした",
+        "見ますでした"
+      ],
+      "answer": 0,
+      "explanation": "見ます的禮貌過去否定是見ませんでした。其餘為錯誤的助動詞組合。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "動詞變化"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-030",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "動詞變化",
+      "difficulty": "入門",
+      "question": "宿題を（　）から、遊びます。",
+      "options": [
+        "して",
+        "する",
+        "します",
+        "した"
+      ],
+      "answer": 0,
+      "explanation": "先做完再玩，用て形＋から，因此選して。其他形式不能在此構成「做完後」的接法。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "動詞變化"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-031",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "動詞變化",
+      "difficulty": "入門",
+      "question": "いっしょに昼ご飯を（　）ませんか。",
+      "options": [
+        "食べ",
+        "食べる",
+        "食べて",
+        "食べた"
+      ],
+      "answer": 0,
+      "explanation": "邀請「要不要一起吃」用食べませんか；ません前接ます形去掉ます後的食べ。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "動詞變化"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-032",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "形容詞",
+      "difficulty": "入門",
+      "question": "昨日のテストは（　）です。",
+      "options": [
+        "難しかった",
+        "難しいでした",
+        "難しくでした",
+        "難しくた"
+      ],
+      "answer": 0,
+      "explanation": "難しい的過去式為難しかった。い形容詞不能直接接でした，其餘形式也不正確。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "形容詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-033",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "形容詞",
+      "difficulty": "入門",
+      "question": "この町は（　）町です。",
+      "options": [
+        "静かな",
+        "静かに",
+        "静かでの",
+        "静かだの"
+      ],
+      "answer": 0,
+      "explanation": "静か是な形容詞，修飾名詞町時用静かな町。静かに用來修飾動作。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "形容詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-034",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "存在句",
+      "difficulty": "入門",
+      "question": "公園に子どもが三人（　）。",
+      "options": [
+        "います",
+        "あります",
+        "ですあります",
+        "しまいます"
+      ],
+      "answer": 0,
+      "explanation": "有生命的兒童存在於公園用います；あります一般用於物品。其餘不能表達本題存在意思。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "存在句"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-035",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "比較句",
+      "difficulty": "入門",
+      "question": "電車はバス（　）速いです。",
+      "options": [
+        "より",
+        "まで",
+        "だけで",
+        "からに"
+      ],
+      "answer": 0,
+      "explanation": "比較基準用より：電車比巴士快。まで表示到，其他選項不構成這個比較句型。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "比較句"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-036",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "疑問詞",
+      "difficulty": "入門",
+      "question": "A：駅は（　）ですか。B：あの建物の後ろです。",
+      "options": [
+        "どこ",
+        "だれ",
+        "いつ",
+        "いくつ"
+      ],
+      "answer": 0,
+      "explanation": "回答地點，疑問詞應為どこ。だれ問人，いつ問時間，いくつ問數量或年齡。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "疑問詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-037",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "疑問詞",
+      "difficulty": "入門",
+      "question": "A：誕生日は（　）ですか。B：五月三日です。",
+      "options": [
+        "いつ",
+        "どこ",
+        "だれ",
+        "いくら"
+      ],
+      "answer": 0,
+      "explanation": "生日日期以いつ提問。どこ問地點，だれ問人，いくら問價格。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "疑問詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-038",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "數量詞",
+      "difficulty": "入門",
+      "question": "教室に学生が五（　）います。",
+      "options": [
+        "人",
+        "枚",
+        "冊",
+        "台"
+      ],
+      "answer": 0,
+      "explanation": "人的數量用人，五人讀ごにん。枚是薄片，冊是書本，台是機器等。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "數量詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-039",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "數量詞",
+      "difficulty": "入門",
+      "question": "ノートを三（　）買いました。",
+      "options": [
+        "冊",
+        "人",
+        "匹",
+        "杯"
+      ],
+      "answer": 0,
+      "explanation": "筆記本用冊，三冊讀さんさつ。人計人，匹計小動物，杯計杯裝飲料等。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "數量詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-040",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "句型",
+      "difficulty": "入門",
+      "question": "ここでたばこを吸っては（　）。",
+      "options": [
+        "いけません",
+        "いいません",
+        "ありませんでしたです",
+        "するません"
+      ],
+      "answer": 0,
+      "explanation": "てはいけません表示禁止。其他選項不是此禁止句型的正確接法。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "句型"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-041",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "句型",
+      "difficulty": "入門",
+      "question": "わたしは日本へ（　）たいです。",
+      "options": [
+        "行き",
+        "行く",
+        "行って",
+        "行った"
+      ],
+      "answer": 0,
+      "explanation": "想去用行きたい，たい接ます形去掉ます的部分。行く、行って、行った均不能直接接たい。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "句型"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-042",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "句型",
+      "difficulty": "入門",
+      "question": "この部屋は広いです。（　）、少し暗いです。",
+      "options": [
+        "でも",
+        "それからで",
+        "そしての",
+        "だからの"
+      ],
+      "answer": 0,
+      "explanation": "房間寬敞但稍暗，でも表示轉折；其他選項為錯誤的連接形式。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "句型"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-043",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "助詞",
+      "difficulty": "入門",
+      "question": "机の上にペン（　）ノートがあります。",
+      "options": [
+        "と",
+        "へ",
+        "を",
+        "にで"
+      ],
+      "answer": 0,
+      "explanation": "完整列舉筆和筆記本用と。へ標示方向，を標示受詞，にで不是此處可用助詞。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "助詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-044",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "句型",
+      "difficulty": "入門",
+      "question": "A：窓を開けてもいいですか。B：はい、（　）。",
+      "options": [
+        "どうぞ",
+        "いただきます",
+        "ごちそうさま",
+        "おかえりなさい"
+      ],
+      "answer": 0,
+      "explanation": "對請求表示許可時可說はい、どうぞ。其餘是用餐前、餐後和迎接回家用語。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "句型"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-045",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "形容詞",
+      "difficulty": "入門",
+      "question": "この料理はあまり（　）。",
+      "options": [
+        "辛くないです",
+        "辛いですかでした",
+        "辛くです",
+        "辛かったないです"
+      ],
+      "answer": 0,
+      "explanation": "あまり通常和否定搭配，表示不太，因此為辛くないです。其餘形式不正確。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "grammar",
+      "topics": [
+        "形容詞"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-046",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "山田さんは犬を飼っています。名前はポチです。毎朝、ポチと公園を散歩します。山田さんは毎朝だれと散歩しますか。",
+      "options": [
+        "犬",
+        "友だち",
+        "先生",
+        "弟"
+      ],
+      "answer": 0,
+      "explanation": "ポチ是山田養的狗；文中說每天早上和ポチ散步，其他人物未出現。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-047",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "きのう、スーパーで牛乳を買いました。パンも買いたかったですが、ありませんでした。きのう何を買いましたか。",
+      "options": [
+        "牛乳だけ",
+        "パンだけ",
+        "牛乳とパン",
+        "何も買いませんでした"
+      ],
+      "answer": 0,
+      "explanation": "買了牛奶；雖然想買麵包，但店裡沒有，所以只買牛奶。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-048",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "佐藤さんは朝、コーヒーを飲みます。夜はよく眠れなくなるので、飲みません。夜、コーヒーを飲まないのはなぜですか。",
+      "options": [
+        "よく眠れなくなるから",
+        "コーヒーがないから",
+        "朝ご飯を食べないから",
+        "お金がないから"
+      ],
+      "answer": 0,
+      "explanation": "文中說晚上喝會睡不好。沒有咖啡、沒吃早餐與沒錢都不是文中原因。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-049",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "駅から学校まで歩いて十分です。家から駅までは五分です。家から駅を通って学校まで、全部歩くと何分ですか。",
+      "options": [
+        "五分",
+        "十分",
+        "十五分",
+        "二十分"
+      ],
+      "answer": 2,
+      "explanation": "家到車站五分鐘，加上車站到學校十分鐘，共十五分鐘。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-050",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "あした、友だちと映画を見ます。映画は二時からですが、一時半に駅で会います。何時に友だちと会いますか。",
+      "options": [
+        "一時",
+        "一時半",
+        "二時",
+        "二時半"
+      ],
+      "answer": 1,
+      "explanation": "約見面的時間是一點半；兩點是電影開始時間。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-051",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "資訊檢索",
+      "difficulty": "入門",
+      "question": "店のお知らせ：今週の土曜日は休みます。日曜日はいつもどおり十時から営業します。正しいものはどれですか。",
+      "options": [
+        "土曜日は休みです",
+        "日曜日は休みです",
+        "土曜日は十時からです",
+        "日曜日は九時からです"
+      ],
+      "answer": 0,
+      "explanation": "公告明確寫本週六休息，週日照常十點開始；其他時間與休息日均不符。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "資訊檢索"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-052",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "資訊檢索",
+      "difficulty": "入門",
+      "question": "メニュー：カレー六百円、うどん四百円、お茶百円。カレーとお茶を一つずつ頼むと、いくらですか。",
+      "options": [
+        "五百円",
+        "六百円",
+        "七百円",
+        "千円"
+      ],
+      "answer": 2,
+      "explanation": "咖哩六百日圓加茶一百日圓，合計七百日圓。四百日圓的烏龍麵未點。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "資訊檢索"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-053",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "資訊檢索",
+      "difficulty": "入門",
+      "question": "図書室のルール：本は一人三冊まで、二週間借りられます。正しいものはどれですか。",
+      "options": [
+        "三冊まで借りられます",
+        "五冊借りられます",
+        "三週間借りられます",
+        "一日だけ借りられます"
+      ],
+      "answer": 0,
+      "explanation": "規則說每人最多三本、借期兩週；其他數量或期限不正確。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "資訊檢索"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-054",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "田中さんへ。今日の会議は三階ではなく、二階の部屋です。時間は三時のままです。会議はどこでありますか。",
+      "options": [
+        "一階",
+        "二階",
+        "三階",
+        "四階"
+      ],
+      "answer": 1,
+      "explanation": "不是三樓而是二樓；三點是時間，並非樓層。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-055",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "母は花が好きです。誕生日に赤い花を買おうと思いましたが、白い花しかなかったので、白い花を買いました。何色の花を買いましたか。",
+      "options": [
+        "赤",
+        "白",
+        "青",
+        "黄"
+      ],
+      "answer": 1,
+      "explanation": "原本想買紅花，但只有白花，所以最後買白花。其他顏色未被購買。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-056",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "日曜日は雨でしたから、サッカーをしませんでした。家で本を読んだ後、昼寝をしました。本を読んだ後、何をしましたか。",
+      "options": [
+        "昼寝をしました",
+        "サッカーをしました",
+        "買い物をしました",
+        "料理をしました"
+      ],
+      "answer": 0,
+      "explanation": "讀書後午睡；足球因雨取消，購物與料理文中未提。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-057",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "わたしの部屋にはベッドと机があります。テレビはありません。テレビを見るときは、居間へ行きます。部屋にないものはどれですか。",
+      "options": [
+        "ベッド",
+        "机",
+        "テレビ",
+        "ベッドと机"
+      ],
+      "answer": 2,
+      "explanation": "房間裡沒有電視；床和書桌都有，想看電視會去客廳。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-058",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "資訊檢索",
+      "difficulty": "入門",
+      "question": "バスの時刻：九時十分、九時三十分、九時五十分。今、九時二十分です。次のバスは何時ですか。",
+      "options": [
+        "九時十分",
+        "九時二十分",
+        "九時三十分",
+        "九時五十分"
+      ],
+      "answer": 2,
+      "explanation": "九點二十分之後最近的一班是九點三十分。九點十分已過，九點五十分較晚。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "資訊檢索"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-059",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "弟は牛乳が好きではありません。でも、ヨーグルトは毎日食べます。弟について正しいものはどれですか。",
+      "options": [
+        "毎日ヨーグルトを食べます",
+        "牛乳が大好きです",
+        "ヨーグルトが嫌いです",
+        "毎日牛乳を飲みます"
+      ],
+      "answer": 0,
+      "explanation": "弟弟每天吃優格，但不喜歡牛奶；其他敘述與文章不符或沒有根據。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-060",
+      "level": "N5",
+      "domain": "文法・讀解",
+      "category": "短篇閱讀",
+      "difficulty": "入門",
+      "question": "旅行は金曜日から日曜日までです。月曜日は学校があるので、日曜日の夜に帰ります。いつ帰りますか。",
+      "options": [
+        "金曜日の夜",
+        "土曜日の夜",
+        "日曜日の夜",
+        "月曜日の夜"
+      ],
+      "answer": 2,
+      "explanation": "因週一要上學，所以週日晚上回來。金曜日是旅行開始日，不是回程日。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "reading",
+      "topics": [
+        "短篇閱讀"
+      ],
+      "courseIds": [],
+      "reviewStatus": "pending_review",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ]
+    },
+    {
+      "id": "n5-candidate-061",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "課題理解",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：女：すみません、水をください。男：はい、どうぞ。女の人は何がほしいですか。",
+      "options": [
+        "水",
+        "お茶",
+        "コーヒー",
+        "牛乳"
+      ],
+      "answer": 0,
+      "explanation": "女士說水をください，表示想要水；其餘飲料未提。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "課題理解"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "女：すみません、水をください。男：はい、どうぞ。女の人は何がほしいですか。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-062",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "重點理解",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：男：明日は何時に来ますか。女：九時に来ます。女の人は明日何時に来ますか。",
+      "options": [
+        "八時",
+        "九時",
+        "十時",
+        "十一時"
+      ],
+      "answer": 1,
+      "explanation": "女士回答九時に来ます，因此是九點。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "重點理解"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "男：明日は何時に来ますか。女：九時に来ます。女の人は明日何時に来ますか。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-063",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "即時應答",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：おはようございます。",
+      "options": [
+        "おはようございます",
+        "おやすみなさい",
+        "いただきます",
+        "ごちそうさまでした"
+      ],
+      "answer": 0,
+      "explanation": "早安的自然回應是おはようございます；其餘是晚安或用餐用語。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "即時應答"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "おはようございます。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-064",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "即時應答",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：ありがとうございます。",
+      "options": [
+        "どういたしまして",
+        "はじめまして",
+        "いってきます",
+        "ただいま"
+      ],
+      "answer": 0,
+      "explanation": "回應感謝可用どういたしまして。其餘是初次見面、出門與回家的用語。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "即時應答"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "ありがとうございます。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-065",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "課題理解",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：女：りんごを二つください。男：はい。女の人はりんごをいくつ買いますか。",
+      "options": [
+        "一つ",
+        "二つ",
+        "三つ",
+        "四つ"
+      ],
+      "answer": 1,
+      "explanation": "女士要求二つ，表示買兩個蘋果。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "課題理解"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "女：りんごを二つください。男：はい。女の人はりんごをいくつ買いますか。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-066",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "重點理解",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：男：今日は電車ですか。女：いいえ、バスで来ました。女の人はどうやって来ましたか。",
+      "options": [
+        "電車",
+        "バス",
+        "自転車",
+        "徒歩"
+      ],
+      "answer": 1,
+      "explanation": "女士否定電車，回答搭巴士來。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "重點理解"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "男：今日は電車ですか。女：いいえ、バスで来ました。女の人はどうやって来ましたか。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-067",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "課題理解",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：女：ここは寒いですね。窓を閉めてください。男：はい。男の人は何をしますか。",
+      "options": [
+        "窓を閉めます",
+        "窓を開けます",
+        "電気を消します",
+        "水を飲みます"
+      ],
+      "answer": 0,
+      "explanation": "女士請關窗，男士答應，所以接下來會關窗。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "課題理解"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "女：ここは寒いですね。窓を閉めてください。男：はい。男の人は何をしますか。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-068",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "即時應答",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：お元気ですか。",
+      "options": [
+        "はい、元気です",
+        "はい、三つです",
+        "はい、駅です",
+        "はい、昨日です"
+      ],
+      "answer": 0,
+      "explanation": "お元気ですか問近況好不好，回答元気です；其餘答數量、地點與日期。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "即時應答"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "お元気ですか。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-069",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "重點理解",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：男：これはいくらですか。女：五百円です。これはいくらですか。",
+      "options": [
+        "三百円",
+        "四百円",
+        "五百円",
+        "六百円"
+      ],
+      "answer": 2,
+      "explanation": "女士說五百円です，價格為五百日圓。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "重點理解"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "男：これはいくらですか。女：五百円です。これはいくらですか。",
+      "audio": null
+    },
+    {
+      "id": "n5-candidate-070",
+      "level": "N5",
+      "domain": "聽解",
+      "category": "課題理解",
+      "difficulty": "入門",
+      "question": "請聆聽音檔後作答（尚未製作音檔，僅供審稿）：女：昼ご飯を食べましょう。男：いいですね。うどんを食べたいです。男の人は何を食べたいですか。",
+      "options": [
+        "うどん",
+        "カレー",
+        "パン",
+        "すし"
+      ],
+      "answer": 0,
+      "explanation": "男士明確表示うどんを食べたい，想吃烏龍麵。",
+      "source": "日語航線原創候選；尚未人工審核",
+      "kind": "listening",
+      "topics": [
+        "課題理解"
+      ],
+      "courseIds": [],
+      "reviewStatus": "draft",
+      "version": 1,
+      "licenseStatus": "original_pending",
+      "generationBatch": "n5-20261104-01",
+      "reviewRecords": [
+        {
+          "type": "ai_self_check",
+          "version": 1,
+          "note": "僅自查語意與解析，不等同獨立人工審核。"
+        }
+      ],
+      "history": [],
+      "changeLog": [
+        {
+          "version": 1,
+          "note": "建立候選內容，禁止正式發布。"
+        }
+      ],
+      "transcript": "女：昼ご飯を食べましょう。男：いいですね。うどんを食べたいです。男の人は何を食べたいですか。",
+      "audio": null
+    }
+  ]
+}

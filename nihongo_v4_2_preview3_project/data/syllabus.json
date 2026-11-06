@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "scope": "平台內部規劃大綱，尚未核對完整官方 JLPT 知識點。",
+  "levels": [
+    {
+      "id": "syllabus-n5",
+      "level": "N5",
+      "status": "demo",
+      "learningGoals": [
+        "基礎自我介紹",
+        "理解場所與時間助詞",
+        "閱讀生活短文"
+      ],
+      "courseIds": [
+        "n5-course-01",
+        "n5-course-02",
+        "n5-course-03"
+      ],
+      "knowledgePointIds": [
+        "kp-n5-grammar-001",
+        "kp-n5-vocabulary-001",
+        "kp-n5-reading-001",
+        "kp-n5-vocabulary-002",
+        "kp-n5-vocabulary-003",
+        "kp-n5-vocabulary-004",
+        "kp-n5-vocabulary-005",
+        "kp-n5-vocabulary-006",
+        "kp-n5-grammar-002",
+        "kp-n5-grammar-003",
+        "kp-n5-grammar-004",
+        "kp-n5-grammar-005",
+        "kp-n5-grammar-006",
+        "kp-n5-grammar-007",
+        "kp-n5-vocabulary-007",
+        "kp-n5-reading-002",
+        "kp-n5-reading-003",
+        "kp-n5-grammar-008",
+        "kp-n5-vocabulary-008",
+        "kp-n5-grammar-009",
+        "kp-n5-grammar-010",
+        "kp-n5-listening-001",
+        "kp-n5-listening-002",
+        "kp-n5-listening-003"
+      ],
+      "prerequisiteLevel": null,
+      "targetQuestionsByKind": {
+        "vocabulary": 35,
+        "grammar": 35,
+        "reading": 20,
+        "listening": 10
+      },
+      "completion": {
+        "requireAllPublishedCourses": true
+      },
+      "extensions": {
+        "furigana": null,
+        "learningSearch": null,
+        "placementTest": null
+      }
+    },
+    {
+      "id": "syllabus-n4",
+      "level": "N4",
+      "status": "planned",
+      "learningGoals": [],
+      "courseIds": [],
+      "knowledgePointIds": [],
+      "prerequisiteLevel": "N5",
+      "targetQuestionsByKind": null,
+      "completion": {
+        "requireAllPublishedCourses": true
+      },
+      "extensions": {
+        "furigana": null,
+        "learningSearch": null,
+        "placementTest": null
+      }
+    },
+    {
+      "id": "syllabus-n3",
+      "level": "N3",
+      "status": "planned",
+      "learningGoals": [],
+      "courseIds": [],
+      "knowledgePointIds": [],
+      "prerequisiteLevel": "N4",
+      "targetQuestionsByKind": null,
+      "completion": {
+        "requireAllPublishedCourses": true
+      },
+      "extensions": {
+        "furigana": null,
+        "learningSearch": null,
+        "placementTest": null
+      }
+    },
+    {
+      "id": "syllabus-n2",
+      "level": "N2",
+      "status": "planned",
+      "learningGoals": [],
+      "courseIds": [],
+      "knowledgePointIds": [],
+      "prerequisiteLevel": "N3",
+      "targetQuestionsByKind": null,
+      "completion": {
+        "requireAllPublishedCourses": true
+      },
+      "extensions": {
+        "furigana": null,
+        "learningSearch": null,
+        "placementTest": null
+      }
+    },
+    {
+      "id": "syllabus-n1",
+      "level": "N1",
+      "status": "planned",
+      "learningGoals": [],
+      "courseIds": [],
+      "knowledgePointIds": [],
+      "prerequisiteLevel": "N2",
+      "targetQuestionsByKind": null,
+      "completion": {
+        "requireAllPublishedCourses": true
+      },
+      "extensions": {
+        "furigana": null,
+        "learningSearch": null,
+        "placementTest": null
+      }
+    }
+  ]
+}

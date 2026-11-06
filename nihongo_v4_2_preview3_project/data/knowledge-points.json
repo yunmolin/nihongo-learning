@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "scope": "目前已建立的分類知識點；不代表完整官方 JLPT 大綱。ID 建立後不可依排序重新產生。",
+  "knowledgePoints": [
+    {
+      "id": "kp-kana-kana-001",
+      "level": "五十音",
+      "kind": "kana",
+      "name": "片假名",
+      "category": "片假名",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-kana-kana-002",
+      "level": "五十音",
+      "kind": "kana",
+      "name": "假名",
+      "category": "假名",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-001",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "文法",
+      "category": "文法",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-vocabulary-001",
+      "level": "N5",
+      "kind": "vocabulary",
+      "name": "單字",
+      "category": "單字",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-reading-001",
+      "level": "N5",
+      "kind": "reading",
+      "name": "閱讀",
+      "category": "閱讀",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-vocabulary-002",
+      "level": "N5",
+      "kind": "vocabulary",
+      "name": "漢字讀音",
+      "category": "漢字讀音",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-vocabulary-003",
+      "level": "N5",
+      "kind": "vocabulary",
+      "name": "漢字表記",
+      "category": "漢字表記",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-vocabulary-004",
+      "level": "N5",
+      "kind": "vocabulary",
+      "name": "文脈選詞",
+      "category": "文脈選詞",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-vocabulary-005",
+      "level": "N5",
+      "kind": "vocabulary",
+      "name": "近義詞",
+      "category": "近義詞",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-vocabulary-006",
+      "level": "N5",
+      "kind": "vocabulary",
+      "name": "單字用法",
+      "category": "單字用法",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-002",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "助詞",
+      "category": "助詞",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-003",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "動詞變化",
+      "category": "動詞變化",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-004",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "形容詞",
+      "category": "形容詞",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-005",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "存在句",
+      "category": "存在句",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-006",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "疑問詞",
+      "category": "疑問詞",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-007",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "數量詞",
+      "category": "數量詞",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-vocabulary-007",
+      "level": "N5",
+      "kind": "vocabulary",
+      "name": "時間表達",
+      "category": "時間表達",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-reading-002",
+      "level": "N5",
+      "kind": "reading",
+      "name": "短篇閱讀",
+      "category": "短篇閱讀",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-reading-003",
+      "level": "N5",
+      "kind": "reading",
+      "name": "資訊檢索",
+      "category": "資訊檢索",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-008",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "否定句",
+      "category": "否定句",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-vocabulary-008",
+      "level": "N5",
+      "kind": "vocabulary",
+      "name": "單字意思",
+      "category": "單字意思",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-009",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "比較句",
+      "category": "比較句",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-grammar-010",
+      "level": "N5",
+      "kind": "grammar",
+      "name": "句型",
+      "category": "句型",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-listening-001",
+      "level": "N5",
+      "kind": "listening",
+      "name": "課題理解",
+      "category": "課題理解",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-listening-002",
+      "level": "N5",
+      "kind": "listening",
+      "name": "重點理解",
+      "category": "重點理解",
+      "targetQuestions": 1,
+      "status": "provisional"
+    },
+    {
+      "id": "kp-n5-listening-003",
+      "level": "N5",
+      "kind": "listening",
+      "name": "即時應答",
+      "category": "即時應答",
+      "targetQuestions": 1,
+      "status": "provisional"
+    }
+  ]
+}
